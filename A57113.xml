@@ -1,0 +1,660 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true English interest, or, An account of the chief national improvements in some political observations, demonstrating an infallible advance of this nation to infinite wealth and greatness, trade and populacy, with imployment and preferment for all persons / by Carew Reynel, Esq.</title>
+            <author>Reynell, Carew, 1636-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 59 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57113</idno>
+            <idno type="STC">Wing R1215</idno>
+            <idno type="STC">ESTC R36784</idno>
+            <idno type="EEBO-CITATION">16016157</idno>
+            <idno type="OCLC">ocm 16016157</idno>
+            <idno type="VID">104768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true English interest, or, An account of the chief national improvements in some political observations, demonstrating an infallible advance of this nation to infinite wealth and greatness, trade and populacy, with imployment and preferment for all persons / by Carew Reynel, Esq.</title>
+                  <author>Reynell, Carew, 1636-1690.</author>
+               </titleStmt>
+               <extent>[22], 92, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Widdowes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: 3 p. at end.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Economic policy.</term>
+               <term>Great Britain --  Colonies --  America.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104768:1"/>
+            <pb facs="tcp:104768:1"/>
+            <p>THE <hi>True Engliſh Intereſt:</hi> OR AN ACCOUNT OF THE Chief National Improvements; IN Some Political Obſervations, Demon<g ref="char:EOLhyphen"/>ſtrating an Infallible Advance of this Nati<g ref="char:EOLhyphen"/>on to Infinite Wealth and Greatneſs, Trade and Populacy, with Imployment, and Preferment for all Perſons.</p>
+            <p>By <hi>Carew Reynel</hi> Eſq;</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Widdowes</hi> at the Green-Dragon in St. <hi>Pauls Church-Yard.</hi> 1674.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:104768:2"/>
+            <pb facs="tcp:104768:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>GReat-Britain</hi> is ac<g ref="char:EOLhyphen"/>knowledged by all the world to be Queen of the Iſles, and as capable to live within it ſelf as any Nation: Having not only all things neceſſary for the Life of man, but alſo abundance of materials, and ſtore of Manufactures and
+<pb facs="tcp:104768:3"/>Commodities to a ſuperflui<g ref="char:EOLhyphen"/>ty for Tranſportation. And is ſo incomparably ſituated, that Trade offers it ſelf to all its Ports and Harbors. The Soyl of the Country rich, abounding with much Grain, Horſes, Beefs, and Sheep that wear the Gol<g ref="char:EOLhyphen"/>den Fleece, and other Traf<g ref="char:EOLhyphen"/>fick: Alſo Mines of Tin, Lead and Sea-Coal unex<g ref="char:EOLhyphen"/>hauſtible; and no Nation in the Univerſe, but partakes of its wollen manufactures. Its Seas every where filled with ſhoals of Fiſh, that are as good as ready ſilver, to
+<pb facs="tcp:104768:3"/>fetch in all manner of Fo<g ref="char:EOLhyphen"/>reign Commodities. Now it is a very hard caſe, if the Heavenly Bounty ſhall by nature thus furniſh us with ſo great aſſiſtances, that we ſhould not add to it and give ſome advance, by our own Art and Induſtry, bringing in whatever fo<g ref="char:EOLhyphen"/>reign Arts, Trades or Hus<g ref="char:EOLhyphen"/>bandries may be profitable to us: for doubtleſs we may Aggrandize our Trade, to an Ineſtimable Account, if we would our ſelves, and make our Territories, as rich and populous as we pleaſe,
+<pb facs="tcp:104768:4"/>under ſo glorious a King and Government as we have; had we but that pub<g ref="char:EOLhyphen"/>lick ſpirit as we ought, and gave countenance to brave actions and induſtrious men, and minded the buſineſs of Trade and Populacy, as much as we do Pleaſures and Luxury. Get firſt but Trade and People which will produce riches, and then pleaſure will come of courſe. Riches are the Conveni<g ref="char:EOLhyphen"/>ence of the Nation, people are the ſtrength, pleaſure, and glory of the Nation: But Trade preſerves both.
+<pb facs="tcp:104768:4"/>And if we be but induſtri<g ref="char:EOLhyphen"/>ous no Nation can exceed us either in a home or forreign trade: For at home we have ſo many materials to employ people, and men hardy and ingenious enough to work and raiſe all ſorts of manu<g ref="char:EOLhyphen"/>factures within our ſelves which we have now from abroad, yet we make not our own Silks we wear, our own houſhold-furniture, I mean Tapiſtry, nor our own ſhirts to our backs, which three manufactures, if we had them full ſtockt, would make us infinitely
+<pb facs="tcp:104768:5"/>rich and populous to Eter<g ref="char:EOLhyphen"/>nity. And for foreign trade and commerce, this Iſland lies ſo ſurrounded with our neighbour nations, and thoſe of the chief concern and ſo near them, that it ſeems deſigned for all man<g ref="char:EOLhyphen"/>ner of riches, and the ſeat of Empire: Being a Land alſo pleaſant, and its Metropo<g ref="char:EOLhyphen"/>lis <hi>London</hi> ſo great and glo<g ref="char:EOLhyphen"/>rious, that it invites all peo<g ref="char:EOLhyphen"/>ple that come over to ſtay here. So that the Country being thus accompliſhed, powerful, and ſubſtantial al<g ref="char:EOLhyphen"/>ready as to fertility and in<g ref="char:EOLhyphen"/>genuity
+<pb facs="tcp:104768:5"/>of the natives, a lit<g ref="char:EOLhyphen"/>tle help and inſpection will make it the moſt glorious place in the world; and his <hi>Majeſty</hi> the moſt potent Prince in Chriſtendom. I have hinted here at the chief advancements we are capable of, and thoſe I am ſure will do the work effe<g ref="char:EOLhyphen"/>ctually if encouraged; for though we are a Nation al<g ref="char:EOLhyphen"/>ready pretty ſubſtantial, yet it's eaſie for us to be ten times richer, and that in the third part of an Age, if we will ſet aſide ſome portion of our time and mony, for
+<pb facs="tcp:104768:6"/>publick actions, and ſuch contrivances, that may be for the general good. We are come to this Improve<g ref="char:EOLhyphen"/>ment that we are, not ſo much by the indulgent care of rich men, as by the wants of ſome ingenious perſons, forcing them to improve themſelves for a livelihood: But what perfection ſhould we arrive to, if (in imitati<g ref="char:EOLhyphen"/>on of his <hi>Majeſty and Roy<g ref="char:EOLhyphen"/>al Highneſs,</hi> who much in<g ref="char:EOLhyphen"/>courage Trade, Ingenuity, and Diſcoveries, even be<g ref="char:EOLhyphen"/>yond any former <hi>Princes</hi>) other great and rich perſons
+<pb facs="tcp:104768:6"/>would ſet about the work, and private perſons would get publick ſpirits, to labour after things ſo beneficial, not only to the nation in ge<g ref="char:EOLhyphen"/>neral, but to every man in particular? We take up our time about little buſineſſes, and it may be factious di<g ref="char:EOLhyphen"/>ſcourſes, when the whole profit of the nation, which is properly a nation of trade, lies unregarded: And half the charges that were ſpent in the laſt Rebellion would have brought the Gold of <hi>Guiny</hi> and Riches of the <hi>In<g ref="char:EOLhyphen"/>dies</hi> to us. Free Naturali<g ref="char:EOLhyphen"/>zation,
+<pb facs="tcp:104768:7"/>and ſome kind of general Indulgence, the Bug-bear of former Ages, is now by Statiſts found to be the great ſecurity and cement of Society, as well as the Aggrandizing of them, to vaſtneſs of Trade, Riches and Populouſneſs. What hath made the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> to bid defiance to the moſt potent Princes of Chriſtendom but this? which now is plain to all the world, and legible to the moſt obſtinate: And when other Princes are at loſs for trade, men, mony, and
+<pb facs="tcp:104768:7"/>vent for their commodities, they abound in all theſe: and though a ſmall Country not much above the bigneſs of <hi>York-ſhire,</hi> yet is the richeſt, moſt populous, and moſt trading ſpot of the Uni<g ref="char:EOLhyphen"/>verſe: although they have no Timber of their own, nor any grain or manufa<g ref="char:EOLhyphen"/>cturing materials, yet they have more plenty of Ships and all other Commodities, and reaſonabler than any part of Chriſtendom: And though they have already ten times as many people as their native Country will
+<pb facs="tcp:104768:8"/>maintain; yet the great freedom, and trade they have, makes people of all nations flock thither as to a refuge and ſanctuary: So that they carry all before them like a mighty torrent, <hi>Amſterdam</hi> declaring free<g ref="char:EOLhyphen"/>dom to all the world to come and dwell there, with equal liberty and privi<g ref="char:EOLhyphen"/>ledges as themſelves; and might have ſtill ſo conti<g ref="char:EOLhyphen"/>nued, had not their ingra<g ref="char:EOLhyphen"/>titude engaged his <hi>Majeſty</hi> to make them a little more civil to him, whoſe Prede<g ref="char:EOLhyphen"/>ceſſors firſt ſet them up.</p>
+            <pb facs="tcp:104768:8"/>
+            <p>All of us both Country and City ſhould be endea<g ref="char:EOLhyphen"/>vouring, how they may do good in their generation, and be beneficial to the publick: For if we were once full of people and full of trade, rents of Lands would quickly raiſe, the Kings revenue would be greater, the Nobility and Gentry richer, the Com<g ref="char:EOLhyphen"/>monalty more ſubſtantial, and the poor be all employ<g ref="char:EOLhyphen"/>ed to advantage. We want people, and yet as the caſe ſtands we want means to maintain them; when if we
+<pb facs="tcp:104768:9"/>pleaſe, we may increaſe our people by multitudes, and grow infinitely rich by them too: For it is a ſad caſe there ſhould be ſo ma<g ref="char:EOLhyphen"/>ny luſty poor about every where, and yet ſo many manufactures want to be brought in, which would ſet at work millions of peo<g ref="char:EOLhyphen"/>ple more than we have to ſpare. For it is manufa<g ref="char:EOLhyphen"/>ctures muſt do the work, which will not only increaſe people, but alſo Trade, and advance it. It ſaves like<g ref="char:EOLhyphen"/>wiſe mony in our purſes by leſſening importation, and
+<pb facs="tcp:104768:9"/>brings mony in by exporta<g ref="char:EOLhyphen"/>tion. How many decayed Gentry alſo of good fami<g ref="char:EOLhyphen"/>lies that want bread, and are diſpatcht beyond Seas; when ſo many Forreſts lie unimproved which would maintain them all, and might be ſo managed as to bring to his <hi>Majeſty</hi> a good revenue alſo? I wiſh ſome great perſons would make it their buſineſs to look af<g ref="char:EOLhyphen"/>ter ſuch great things. In the mean time I have thrown in my mite, and en<g ref="char:EOLhyphen"/>deavoured to ſhew the chief Improvements, and have
+<pb facs="tcp:104768:10"/>reduced them to a narrow room, that whoever hath a mind to bend his ſtudy this way, may with eaſe comprehend the ground<g ref="char:EOLhyphen"/>work of the Engliſh proſpe<g ref="char:EOLhyphen"/>rity, and ſuch Politicks as are proper for our Nation, hoping it may work a good effect, on ſome able perſons which may be inſtrumental to the publick good, when they ſee the manner of bringing it about thus con<g ref="char:EOLhyphen"/>tracted under their eye and to their uſe, and behold ſo many advantages that may be made and yet lye unre<g ref="char:EOLhyphen"/>garded.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:104768:10"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>1. <hi>INduſtry.</hi> pag. 1.</item>
+               <item>2. <hi>Money.</hi> p. 3.</item>
+               <item>3. <hi>Trade in General.</hi> p. 5.</item>
+               <item>4. <hi>Home and Foreign Trade.</hi> p. 7.</item>
+               <item>5. <hi>Trade to particular Places.</hi> p. 9.</item>
+               <item>6. <hi>Importation and Exportation.</hi> p. 10.</item>
+               <item>7. <hi>Committees of Trade.</hi> p. 16.</item>
+               <item>8. <hi>Manufactures.</hi> p. 17.</item>
+               <item>9. <hi>Husbandry.</hi> p. 19.</item>
+               <pb facs="tcp:104768:11"/>
+               <item>10. <hi>Of the Chief National Improve<g ref="char:EOLhyphen"/>ments.</hi> p. 22.</item>
+               <item>11. <hi>Linen Trade.</hi> p. 24.</item>
+               <item>12. <hi>Of the Silk Trade.</hi> p. 25.</item>
+               <item>13. <hi>Tapiſtry.</hi> p. 26.</item>
+               <item>14. <hi>Of the Fiſhery.</hi> p. 27.</item>
+               <item>15. <hi>Orchards and Vineyards.</hi> p. 30.</item>
+               <item>16. <hi>Tobacco.</hi> p. 32.</item>
+               <item>17. <hi>Of the Salt Trade, Latton, and Paper.</hi> p. 36.</item>
+               <item>18. <hi>Of Mines.</hi> p. 38.</item>
+               <item>19. <hi>Foreſts.</hi> p. 40.</item>
+               <item>20. <hi>Cutting of Rivers.</hi> p. 42.</item>
+               <item>21. <hi>Variety of Trades, Profeſſions, and Manufactures.</hi> p. 44.</item>
+               <pb facs="tcp:104768:11"/>
+               <item>22. <hi>Of Employments, and Preferments.</hi> p. 51.</item>
+               <item>23. <hi>Of Colledges, of Manufactures, and Enrichment of particular Pa<g ref="char:EOLhyphen"/>riſhes.</hi> p. 56.</item>
+               <item>24. <hi>Of Marriage, and Populacy.</hi> p. 59.</item>
+               <item>25. <hi>Kings Revenue, Taxes, Cuſtoms.</hi> p. 68.</item>
+               <item>26. <hi>Of publick maintenance, and pro<g ref="char:EOLhyphen"/>viſion of Charity.</hi> p. 72.</item>
+               <item>27. <hi>Learning.</hi> p. 76.</item>
+               <item>28. <hi>Laws, and eaſing of Debtors.</hi> p. 80.</item>
+               <item>29. <hi>Of Navigation and Sea Affairs.</hi> p. 85.</item>
+               <item>30. <hi>Of New Inventions and Diſcove<g ref="char:EOLhyphen"/>ries.</hi> p. 86.</item>
+               <item>31. <hi>Of Plantations.</hi> p. 88.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104768:12"/>
+            <pb n="1" facs="tcp:104768:12"/>
+            <head>THE True Engliſh INTEREST.</head>
+            <div n="1" type="part">
+               <head>1. <hi>Induſtry.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE happineſs and wel<g ref="char:EOLhyphen"/>fare of all People ariſes, by having or acquiring, through ſome Induſtry or other, ſuch conveniency of lively-hood, as may not only keep them from Want and Poverty, but ren<g ref="char:EOLhyphen"/>der them pleaſant and ſociable to one
+<pb n="2" facs="tcp:104768:13"/>another, this holds both in private Per<g ref="char:EOLhyphen"/>ſons and Families, and alſo in bodies Politick: that they may be able to grow and flouriſh, at leaſt bear up againſt the Malignity of Enemies and adverſe For<g ref="char:EOLhyphen"/>tune.</p>
+               <p>Now Money being the common re<g ref="char:EOLhyphen"/>ceipt, and ſtandard of all the world, as to commerce and community one with another, that Nation that hath moſt Money, or Goods Money worth, muſt needs be moſt ſubſtantial and wealthy.</p>
+               <p>And Money is gotten either naturally by digging it out of the Mines, or elſe by Trade and Manufactury, ſupplying thoſe which have money with ſuch things as they want: and ſo fetching of it to us by Merchandiſe. The firſt way we want, the having of it in the Mine, and therefore muſt have recourſe to the ſe<g ref="char:EOLhyphen"/>cond, of Trade, Manuſacture, and things Money worth.</p>
+               <p>Wherefore we ought to furniſh our ſelves, within our ſelves, of as many needs of life as may be, by Manufactures, and all Husbandries whatſoever, that our Country will make or bear, and
+<pb n="3" facs="tcp:104768:13"/>want as few as we can, ſo ſhall leſs Mo<g ref="char:EOLhyphen"/>ney ſerve our turn, and yet we have ſtore of Money by making and producing thoſe things that draw in Money conti<g ref="char:EOLhyphen"/>nually.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. <hi>Money.</hi>
+               </head>
+               <p>THat Nation that values Money moſt, ſhall have moſt of it: where<g ref="char:EOLhyphen"/>fore it is good that the value of Coin be alwaies ſomewhat higher than in our neighbour Nations: ſo can we not fail of having it from them. Alſo to keep Mo<g ref="char:EOLhyphen"/>ney in a Nation it is good to allay it a lit<g ref="char:EOLhyphen"/>tle, and Coin much ſmall Money, which diſperſes amongſt the Commonalty and body of the Nation: and moſt of the large Coin ought to be made plain and ill ſhapen, ſo none will be carried away out of curioſity, whereas now all our fine Crowns are tranſported abroad and hoarded at home.</p>
+               <p>To bring in the old Gold again it were well, the broad pieces might go for
+<pb n="4" facs="tcp:104768:14"/>24 ſhillings, and the 22 ſhillings for 26 ſhillings, and only theſe pieces raiſed which would be eaſily known by their wearing and age: this would bring them in a pace from beyond Sea, where they ſay great payments are made of our old Gold, and keep them from melting here: ſo if there were alſo a de-coy piece of Silver, as a fine Crown to go for five ſhillings and three pence, it would keep them in very much.</p>
+               <p>Alſo if we valued ſome Coin of ano<g ref="char:EOLhyphen"/>ther Nation very high, as ſuppoſe ſix pence in a Crown above the rate it went for there, it would be a means to bring over that Money hither; and to keep our ſelves from any loſs, we might raiſe the value of our own Cloath or other Com<g ref="char:EOLhyphen"/>modity accordingly; ſo might any Town in <hi>England</hi> which abounds in a particu<g ref="char:EOLhyphen"/>lar Commodity, draw in much Money to them and Sale of their Commodity by valuing ſome one piece of Coin ex<g ref="char:EOLhyphen"/>traordinary, to go current ſo in their own Town.</p>
+               <p>Alſo Money is gain'd by letting any one Coin <hi>Bullion</hi> that will at the publick charge.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="5" facs="tcp:104768:14"/>
+               <head>3. <hi>Trade in General.</hi>
+               </head>
+               <p>BUT Money is chiefly gain'd by Trade, and making ſtore of Manu<g ref="char:EOLhyphen"/>factures, which other Nations want: and improving of our Ground with va<g ref="char:EOLhyphen"/>riety of Husbandry Commodities, and to furniſh them with ſuch of our produ<g ref="char:EOLhyphen"/>ctions, for we ought to ſupply our ſelves within our ſelves, that we need few Fo<g ref="char:EOLhyphen"/>reign things, and make as many Com<g ref="char:EOLhyphen"/>modities at home as poſſible, that Fo<g ref="char:EOLhyphen"/>reigners want and ſo Export it to them.</p>
+               <p>For <hi>England</hi> is properly a Nation of Trade, and extreamly well ſcituated for Commerce, and the Inhabitants ingeni<g ref="char:EOLhyphen"/>ous, and fit for it, if incouraged: alſo furniſht within it ſelf with ſtore of Mate<g ref="char:EOLhyphen"/>rials, which are the grounds of Trade.</p>
+               <p>But being an Iſland and independent from our neighbours, the leſs War and more Peace we have the better; for Con<g ref="char:EOLhyphen"/>queſt of unprofitable Countries help us not but hinder us, are chargeable and
+<pb n="6" facs="tcp:104768:15"/>waſte our People: our buſineſs is to keep at unity with our ſelves and enjoy a free Trade, keeping only ſome Forts and Iſlands in profitable places, whereby we become Maſters of Trade.</p>
+               <p>Alſo ſuch Laws might be made and contrived for the encouragement of Trade and Manufactures, that without coſt or charge Induſtry would increaſe, many particular Arts riſe of themſelves, and Riches be produced of courſe. The chief things that promote Trade and make it flouriſh, are that it be free, na<g ref="char:EOLhyphen"/>turalization, populacy, comprehenſion, freedom from Arreſts, certainty of pro<g ref="char:EOLhyphen"/>perty and freedom from Arbitrary pow<g ref="char:EOLhyphen"/>er, ſmall Cuſtoms, all conveniency and advantages for trading People: Loans of Intereſt, publick places of Charity for all wanting and diſtreſſed People, and alſo Imployments ready for all perſons that want it; the more ſtrict alſo Laws are againſt grand Vices, the more ſeriouſ<g ref="char:EOLhyphen"/>neſs, Learning and Trade will flouriſh.</p>
+               <p>It would be for the advantage of Trade that what ever Apprentice had ſerved his time in one Corporation ſhould be free of any.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="7" facs="tcp:104768:15"/>
+               <head>4. <hi>Home and Foreign Trade.</hi>
+               </head>
+               <p>TRade is to be advanced every way at home and abroad, but eſpecially the home, as being of more Conſequence than the Foreign: for what ever we can raiſe at home we ſhould never have from abroad. Foreign Trade is a ſecondary help, home Trade is our primary ad<g ref="char:EOLhyphen"/>vantage. Thoſe Nations are obſerved to be rich and populous, who waſte nor their People in Foreign parts, but enjoy a great home Trade, not going abroad themſelves, but ſuffering all Nations that will, to come and fetch their Com<g ref="char:EOLhyphen"/>modities, as <hi>Perſia,</hi> the great <hi>Mogull, China,</hi> and <hi>Japan,</hi> and the <hi>French</hi> our Neighbours.</p>
+               <p>Though we lying ſo naturally for Trade, ought to encourage Navigation, eſpecially for the tranſporting our own Commodities, yet great care ought to
+<pb n="8" facs="tcp:104768:16"/>be had that Seamen be not exported ſo much as they have been and are; for it hath been our buſineſs to breed them up and other Nations to ſteal them away.</p>
+               <p>For the People of this Nation are leſſened by it extreamly, not one in three of them ever ſettling again at home, but are decoy'd away to <hi>New-England</hi> and <hi>Virginia,</hi> and ſeveral other places. And alſo the <hi>Dutch</hi> get vaſt numbers of them to their Iſlands in the <hi>Eaſt-Indies,</hi> and keep them there whether they will or no, firſt inticing them into their Ships with great wages.</p>
+               <p>To encourage home Trade we ſhould enjoyn our own People chiefly to uſe our own Manufactures, and make them pay treble Cuſtom that bring in any Foreign Manufacture, that we do make or may make at home, to encourage home-trade. It were excellent to erect ſtore-houſes for the publick work, and to buy up all Cloath and other Manufactures in dead times of Trade, that the poor might be alwaies kept in work.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="9" facs="tcp:104768:16"/>
+               <head>5. <hi>Trade to particular Places.</hi>
+               </head>
+               <p>WE ſhould take all poſſible care to find all the particular Towns, and Provinces, and by In-land places, as well as general Countries, that want our Manufactures, that we might find ſtore of vent for our Commodities. Sometimes private Creeks will entertain Merchandiſe as well as great Rivers.</p>
+               <p>The <hi>Guiny</hi> Trade would be much ad<g ref="char:EOLhyphen"/>vanced by being freer; the <hi>Norway</hi> Trade at preſent, we having occaſion for ſuch vaſt quantitities of Timber, ſwallows up abundance of our Money for want of more proper things for ex<g ref="char:EOLhyphen"/>portation. The <hi>French</hi> Trade by Im<g ref="char:EOLhyphen"/>porting ſo much of their Wines, Silks, Linnen, Papers, and Salt doth much exhauſt our Money. The <hi>Barbary</hi> Trade would be good if <hi>Tangier</hi> might have a free entercourſe to them; the <hi>Turky,
+<pb n="10" facs="tcp:104768:17"/>Spaniſh,</hi> the <hi>Guiny, Weſt-Indy</hi> Trade are very good to us, but the <hi>Weſt-Indy</hi> Trade will be the only advantage to us, if we fix it rightly, which will vend not only all our own Commodities, but bring us ſtore of Silver and increaſe Navigation.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6. <hi>Importation and Exportation.</hi>
+               </head>
+               <p>WHere a Nation Imports by its voluptuouſneſs more than it Ex<g ref="char:EOLhyphen"/>ports, it muſt needs come to ruine; Coin there going out in <hi>Specie</hi> for the over ballance is ſtill maintained by ready Mo<g ref="char:EOLhyphen"/>ney. For Exportation is gain, but all Commodities Imported is loſs, but rea<g ref="char:EOLhyphen"/>dy Silver or ſuch Commodities, that be<g ref="char:EOLhyphen"/>ing carried out again brings in Silver from other Nations.</p>
+               <p>No Cuſtoms, or very ſmall, ſhould be paid for Exportation of our own Ma<g ref="char:EOLhyphen"/>nufactures. It were better to advance the Kings Revenue any other way than
+<pb n="11" facs="tcp:104768:17"/>by gaining Cuſtom on our own Com<g ref="char:EOLhyphen"/>modities, which hinders Exportation, or to encourage Foreign Commodities that we can make here to advance the Cuſtoms.</p>
+               <p>For as too much Importation is the ruine of Trade and Navigation, ſo Ex<g ref="char:EOLhyphen"/>portation is the life of them both: For we can never Export too much, but the more we do, the more ſtill will be our benefit, which alſo procures greater Im<g ref="char:EOLhyphen"/>portation to profit as well as advance of Cuſtoms and Navigation: For let us but Export three times the Commodities we do, and we ſhall Import twice the Commodities we do, and yet be gainers; and the Cuſtoms and Navigation doubly advanced, and the Nation in general richer; whereas if the over-ballance be by Importation all theſe are ſo much weakened.</p>
+               <p>Wherefore it is a great miſtake of ſome who think the forbidding ſeveral Commodities to be Imported, which we can produce, or turn into Manufa<g ref="char:EOLhyphen"/>cture our ſelves, that the Cuſtoms are thereby leſſened, for though they may
+<pb n="12" facs="tcp:104768:18"/>be leſſned in that thing they will be high<g ref="char:EOLhyphen"/>ly advanced in another, through more Exportation, which of courſe will bring in more Importation.</p>
+               <p>Wherefore we ſhould contrive to make as many various things as poſſible for Exportation, ſo ſhould we grow rich of courſe, and Trade increaſe on our hands, which otherwiſe will daily de<g ref="char:EOLhyphen"/>creaſe.</p>
+               <p>For it is not all Trading advantages a Nation. A People may be undone by ſome kind of Merchandiſe, for many Merchants, ſo they advantage them<g ref="char:EOLhyphen"/>ſelves, care not what injury they may do to the Publick; for as they were wont formerly and do ſtill ſerve thoſe of <hi>Guiny,</hi> to carry them Beads, Looking-Glaſſes, and ſuch like things, and bring away their Gold: ſo they deal often with their own Countrymen: for find<g ref="char:EOLhyphen"/>ing us fantaſtical and voluptuous, they tempt us with all ſorts of <hi>French</hi> Toyes, <hi>Indy</hi> and <hi>Japan</hi> trifles, ſtain'd Calli<g ref="char:EOLhyphen"/>coes, Silks and ſuch pleaſant things, and fetch away our Money and ſolid wealth. But I ſay let us make ſtore of all new
+<pb n="13" facs="tcp:104768:18"/>Manufactures to tempt them with, and to barter for them, and not ſend Money, then come with what they will. But as things are now we are loſers by moſt of our Trading, eſpecially our <hi>French</hi> and <hi>Canary:</hi> we Import, as one Author ſaith of <hi>French</hi> Commodities, as Silks, Laces, Linen, and Paper, and the like, ſix<g ref="char:EOLhyphen"/>teen hundred thouſand pounds a year more than we Export of our own: and of Canary Wine one hundred and fif<g ref="char:EOLhyphen"/>ty thouſand pounds worth more than we Export alſo. And to the <hi>Eaſt-Indies</hi> we carry nothing but ready Money, and bring in again nothing worth any thing but Spices, and though the pretence is, that thoſe things ſo Imported, when Ex<g ref="char:EOLhyphen"/>ported bring in more Money than they carried out, yet we find the Money de<g ref="char:EOLhyphen"/>cays, and they bring in little Money with them, only ſtill more ſuperfluity of Wines, Silks and unneceſſary toyes. But it were well if we could manage the <hi>Eaſt-Indie</hi> Trade as the <hi>Dutch</hi> do, who carry no Silver from <hi>Holland,</hi> but drive the Trade with the Silver they get from <hi>Japan</hi> in exchange for other Commodi<g ref="char:EOLhyphen"/>ties,
+<pb n="14" facs="tcp:104768:19"/>they bring to them, which we may do in a better and ſpeedier way than they can, if permitted by the means of the <hi>Weſt-Indies,</hi> the <hi>Iſthmus</hi> of <hi>Panama</hi> be<g ref="char:EOLhyphen"/>ing within one hundred and ſixty Leagues off <hi>Jamaica,</hi> and but ſix weeks Sail from <hi>Japan,</hi> and driving the <hi>Weſt</hi> and <hi>Eaſt-Indie</hi> Trade under one Voyage, carry what Silver we will from the <hi>Weſt-Indies</hi> thither if it is required, and ſo come back hither with <hi>Eaſt-Indie</hi> Goods, and <hi>Weſt-Indie</hi> Silver. But of this more in another place.</p>
+               <p>It is an extream benefit to the Nation to encourage all manner of Exportations of our own Commodities to Foreign Countries, and countenance and embrace all Nations that will ſetch away our home Commodities, though in their Ships; ſo ſhould we have a greater ad<g ref="char:EOLhyphen"/>vantage, than if we only tranſported them in our bottoms, for Foreigners would not come but they would be re<g ref="char:EOLhyphen"/>ſolved to take off our Commodities. Then the Commodities that they bring, they would be forced to ſell at any rate, for they would not go back again with<g ref="char:EOLhyphen"/>out
+<pb n="15" facs="tcp:104768:19"/>their Errand, ſo our Commodities would be highlier valued. Whereas our own Merchants beat the price down both at home and abroad. At home when they know we muſt ſell to them or none elſe. Abroad in the manner re<g ref="char:EOLhyphen"/>cited by proffering the Goods ſo plenti<g ref="char:EOLhyphen"/>fully in their own ports: alſo by letting Foreigners come we ſhould vend doubly to them, and our own: and the quick and large vend would raiſe the price. Wherefore the Act of tranſporting only in our own bottoms is apparently diſad<g ref="char:EOLhyphen"/>vantagious to us, both as to Merchan<g ref="char:EOLhyphen"/>diſe and the conveniency of Ships and Shipping Goods: alſo for Foreign built Ships, we might have at an eaſier rate to purchaſe them, and our Goods would be tranſported alſo cheaper, by having a double means, either by our own Ma<g ref="char:EOLhyphen"/>riners or Foreigners.</p>
+            </div>
+            <div n="7" type="part">
+               <pb n="16" facs="tcp:104768:20"/>
+               <head>7. <hi>Committees of Trade.</hi>
+               </head>
+               <p>BUT that there be more of Publick good in Merchandiſe, and the con<g ref="char:EOLhyphen"/>fuſion of Trade taken away, it were well the Myſteries of Exchange were more publickly known; and alſo that there were a Committee of Trade, be<g ref="char:EOLhyphen"/>ing mixt with the chief able Merchants that underſtand Trade, and to continue alwaies; Who ſtill ſhould be on the diſcovery, and ſtudy for the Improve<g ref="char:EOLhyphen"/>ment of Trade, ſo ſhould we have Trade brought more to a general benefit, and we may come to underſtand it is the beſt In<g ref="char:EOLhyphen"/>tereſt we have, to which purpoſe alſo it were expedient they had a Court Mer<g ref="char:EOLhyphen"/>chant, to end all buſineſſes ſpeedily amongſt themſelves without charge or delay, which now they are tired with.</p>
+            </div>
+            <div n="8" type="part">
+               <pb n="17" facs="tcp:104768:20"/>
+               <head>8. <hi>Manufactures.</hi>
+               </head>
+               <p>THe more Trade, Husbandries and Manufactures there are in a Na<g ref="char:EOLhyphen"/>tion, the more people there will be, more employment for them, and more riches; every thing again will vend the more one for another, being ſtockt with ſeveral waies of a lively hood, and not glutted and over-ſtockt with any one Manufacture, as we are with Cloath in <hi>England;</hi> when as if we had Linen, Silk, and Tapiſtry alſo, it would im<g ref="char:EOLhyphen"/>ploy us, and enrich us immeaſurably. The Linen, Silk, and Tapiſtry would be more Merchandable than any thing; as vending not only here, but infinite<g ref="char:EOLhyphen"/>ly to our <hi>Weſt-Indie</hi> Collonies.</p>
+               <p>For it is the Manufacturers of a Commodity, that is in general ſale, that imploys people and produces the great profit; although the original Ma<g ref="char:EOLhyphen"/>terials are not in the Country, as Silks for example, the making of which
+<pb n="18" facs="tcp:104768:21"/>employs abundance of people, and with them bring in other things by Expor<g ref="char:EOLhyphen"/>tation. The <hi>Dutch</hi> gain by making our Cloath, and they have their Wool from us.</p>
+               <p>Trade and populouſneſs of a Nation are the ſtrength of it; and the product of it is riches. Money, Trade, and populouſneſs are by all means poſſible to be kept in a Nation; the more popu<g ref="char:EOLhyphen"/>lous, the more Trade; the more Trade, the more populous, and the more Trade and populacy, the more Money.</p>
+               <p>But then Trade muſt be regulated; for if a Nation purſue either but one or few Trades, populacy may be loſt, for want of variety of Trades to employ men, for they will go to other Coun<g ref="char:EOLhyphen"/>tries where there is more Trade, and thus Trade will decay for want of Peo<g ref="char:EOLhyphen"/>ple, and ſo in the end People and Trade will decay, as here in <hi>England;</hi> both which we may eaſily remedy.</p>
+            </div>
+            <div n="9" type="part">
+               <pb n="19" facs="tcp:104768:21"/>
+               <head>9. <hi>Husbandry.</hi>
+               </head>
+               <p>AS it is an advantage to have va<g ref="char:EOLhyphen"/>riety of Manufactures, ſo alſo it is to have variety of Husbandries, for the more ſeveral Husbandries the ground is taken up with, the more every grain and Commodity will vent one for ano<g ref="char:EOLhyphen"/>ther, and ſo advance the rate of Land, produce greater profit and increaſe, and maintain more people; but of all Plantations at preſent, Vineyards, Or<g ref="char:EOLhyphen"/>chards for Sider, and Tobacco Plan<g ref="char:EOLhyphen"/>tations, would be the moſt advanta<g ref="char:EOLhyphen"/>geous, eſpecially Tobacco; it ſets an infinite of People on work, increaſeth the rent of Land, and returns great profit to the planter, as can be proved beyond all exceptions, if time and oc<g ref="char:EOLhyphen"/>caſion required.</p>
+               <p>
+                  <hi>Engliſh</hi> Sider is better than any. As good Wine hath been made here as in <hi>France,</hi> and as good Tobacco as in <hi>Spain,</hi> and ſold for as great a rate by
+<pb n="20" facs="tcp:104768:22"/>relation, and if it were planted in <hi>England,</hi> it would be profitable to us, better for Navigation, and the Kings Cuſtoms.</p>
+               <p>All manner of other Husbandries ought to be brought into the Nation that is beneficial, as Hops, Liquoriſh, Saffron, Madder, Clover-graſs, San, Foin, Oade, Saffe Flowers that dies Scarlet, which thrives well here, and any other that are profitable.</p>
+               <p>The more a Country is encloſed, and the leſs waſte Grounds, Commons, and Foreſts there are, the more populous, wealthy, and full of Trade it will be.</p>
+               <p>And the ſmaller Eſtates the Land is divided into, the better for the Nation; the more People are maintain'd, and the Land better Huſ<g ref="char:EOLhyphen"/>banded.</p>
+               <p>As for the tranſportation of Wool, which ſome fancy would be an advan<g ref="char:EOLhyphen"/>tage; but truly that cannot be, for then we could not make Cloath ſo rea<g ref="char:EOLhyphen"/>ſonable, and it would be a hindrance to the Manufacturing men; they object
+<pb n="21" facs="tcp:104768:22"/>it would be better for the Graziers. Not ſo neither, for if they tranſported it in its kind, there would be no Ma<g ref="char:EOLhyphen"/>nufacture of Cloath at all, it would then fall to be cheaper than now. But to remedy the complaint of the Grazier, 'twere better there were leſs grazing ground, and more to tillage, and Gar<g ref="char:EOLhyphen"/>dening, or other Husbandry; ſo more People would be imploy'd; for grazing depopulates extreamly, and employs few hands. If Wool be cheap, ſo much the better for the Cloath Manu<g ref="char:EOLhyphen"/>facture; and it will encourage the Husbandman to ſow Homp, Flax, or ſome other Husbandry, which were better for the Nation than grazing; or contrive to bring in People and Ma<g ref="char:EOLhyphen"/>nufacture, which would quickly make Wooll and every thing vend by ſtore of Conſumption; for 'tis want of ſeveral Husbandries, People and Manufacture that deſtroys us, and the employing of ground to ſo mean a profit as grazing; wherefore all care ought to be, to pre<g ref="char:EOLhyphen"/>vent it by more active and profitable Husbandry.</p>
+            </div>
+            <div n="10" type="part">
+               <pb n="22" facs="tcp:104768:23"/>
+               <head>10. <hi>Of the chief National Improvements.</hi>
+               </head>
+               <p>THeſe following Arts and Manu<g ref="char:EOLhyphen"/>factures, added to what we have already, would improve and advance <hi>England</hi> ſufficiently, and make it rich and populous, that is, by ſetting up,
+<list>
+                     <item>1. The Linen Trade.</item>
+                     <item>2. The Silk Trade.</item>
+                     <item>3. The Tapiſtry.</item>
+                     <item>4. The Fiſhery.</item>
+                     <item>5. The Sider Trade.</item>
+                     <item>6. Planting of Tobacco.</item>
+                     <item>7. Vineyards.</item>
+                     <item>8. Encloſing of Foreſts.</item>
+                     <item>9. Diſcovery and Improvement of Mines.</item>
+                     <item>10. Advancing the Salt Trade.</item>
+                     <item>11. The Lattin Manufacture.</item>
+                     <item>12. The making of Paper.</item>
+                  </list>
+               </p>
+               <pb n="23" facs="tcp:104768:23"/>
+               <p>Obſerve that theſe things bring a new ſtock of People; who being employ<g ref="char:EOLhyphen"/>ed upon new Trades, will not only main<g ref="char:EOLhyphen"/>tain themſelves, but give employ<g ref="char:EOLhyphen"/>ment and Trade to all the old Pro<g ref="char:EOLhyphen"/>feſſions, as much as if a new Na<g ref="char:EOLhyphen"/>tion were Planted in the midſt of us.</p>
+            </div>
+            <div n="11" type="part">
+               <pb n="24" facs="tcp:104768:24"/>
+               <head>11. <hi>Linen Trade.</hi>
+               </head>
+               <p>THE benefit of theſe will be in<g ref="char:EOLhyphen"/>eſtimable, by the profit that will enſue thereby, and the vaſt employment it will give to People. The Linen Trade will ſave an infinite deal of Money we ſend to <hi>France</hi> and <hi>Holland,</hi> and employ half a million of People; keep in Til<g ref="char:EOLhyphen"/>lage much Land, ſet many Husbandmen on work, by the great quantity of Hemp and Flax, that will be ſown for the car<g ref="char:EOLhyphen"/>rying of it on, whereas now we make not ſo much as the Sheets to our Beds, or Shirts to our backs. The Linen Ma<g ref="char:EOLhyphen"/>nufacture alſo is of greater vend than Woolen; as being uſed on more occa<g ref="char:EOLhyphen"/>ſions, and in both cold and hot Coun<g ref="char:EOLhyphen"/>tries and never fails of Chapmen, or is ever dull.</p>
+            </div>
+            <div n="12" type="part">
+               <pb n="25" facs="tcp:104768:24"/>
+               <head>12. <hi>Of the Silk Trade.</hi>
+               </head>
+               <p>THE Silk Trade will alſo ſave us vaſt ſums of Money, now ſent to <hi>France</hi> and <hi>Italy,</hi> and we make it here better and cheaper. And then we ſhould have it to furniſh our ſelves and our neighbours; and tranſport abun<g ref="char:EOLhyphen"/>dance to our Southern Plantations, and bring with it Silver or ſuch Commodi<g ref="char:EOLhyphen"/>ties, we muſt neceſſarily want or other<g ref="char:EOLhyphen"/>wiſe pay ready Silver for. This Com<g ref="char:EOLhyphen"/>modity alſo vends in hot and cold Coun<g ref="char:EOLhyphen"/>tries, and our Plantations in the hot Countries grow ſo conſiderable and po<g ref="char:EOLhyphen"/>pulous of late, that they will vend abun<g ref="char:EOLhyphen"/>dance of Silk, and Linen if we had it for them.</p>
+            </div>
+            <div n="13" type="part">
+               <pb n="26" facs="tcp:104768:25"/>
+               <head>13. <hi>Tapiſtry.</hi>
+               </head>
+               <p>THE Tapeſtry would ſet whole Towns on work and conſume our own Wool, and woſted abundantly, and ſave Money in our purſes; for the Upholſterers Trade, as it is now, con<g ref="char:EOLhyphen"/>ſiſts much of Foreign ware, which is a damage to us, which we may make as well, and have enough to Export; alſo it encourages Weavers, Woſted-workers, Drawers, and Deſigners, and ſeveral other Trades that have a lively<g ref="char:EOLhyphen"/>hood by it; theſe Manufactures would employ a million of People.</p>
+            </div>
+            <div n="14" type="part">
+               <pb n="27" facs="tcp:104768:25"/>
+               <head>14. <hi>Of the Fiſhery.</hi>
+               </head>
+               <p>THE Herring Fiſhery would em<g ref="char:EOLhyphen"/>ploy nigh half a million of Peo<g ref="char:EOLhyphen"/>ple more, both by Sea and Land in ma<g ref="char:EOLhyphen"/>naging the Ships, and catching the Fiſh. It is ſuppoſed it may employ many thouſand Buſſes, beſides many other little Veſſels and Boats attending them, then there would be abundance of employment at home in making Nets, Cordage, Sails, curing and or<g ref="char:EOLhyphen"/>dering the Fiſh, and employ abundance of Ship Carpenters, and raiſe all the Port Towns and Countries adjacent; and the Fiſh would bring in ſtore of Silver, and is it ſelf as good as Silver to fetch in any other Commodity we want, from any other Nation: and the moſt certain ſalable Commodity to all our neighbours that can be produced. We have better advantage for the Fiſhery than any Nation, the Trade being on our own Coaſts, and our own Seas.
+<pb n="28" facs="tcp:104768:26"/>But if we will we may manage the Trade with their People, procuring them to ſerve us in our Ships.</p>
+               <p>Now effectually to bring in both the Fiſhery, and the three former Ma<g ref="char:EOLhyphen"/>nufactures, beſides Publick Acts of encouragement, Naturalization, and freement from Taxes, there is no way like this, that there be an Impoſt of forty thouſand pound <hi>per annum,</hi> and on ſome Commodity that may be conſtant and certain, as Coal or the like, which ſhould go to the raiſing of the Fiſhery, Linen, Silk, and Tapiſtry Manufa<g ref="char:EOLhyphen"/>cture; and be ſo ordered that forty pound <hi>per annum</hi> and a piece, ſhould be duly paid to a thouſand of the elder maſters of Buſſes, and divers of the other three Manufactory Trades, which would give penſions to two hundred and fifty men of each Trade conſtantly, and as they die and fall off, the next Senior Buſs-maſter or Manufacturing man to take place, and this continuing during their lives: and their forty pound a year to be paid not in ready moneys, but in Cloath or other <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+                  <pb n="29" facs="tcp:104768:26"/>Manufacture, which would in<g ref="char:EOLhyphen"/>creaſe the Trade alſo. If this courſe were taken, it would not only ſet up and keep up the Fiſhery, and thoſe Manufactures, but all other Trades alſo, and enrich the Land vaſtly. And the Cuſtom that would ariſe to the King by it, bringing in Foreign Goods, would be infinite, and obſerve, the Fiſhery, would be conſtanter to us than any Trade we have now.</p>
+            </div>
+            <div n="15" type="part">
+               <pb n="30" facs="tcp:104768:27"/>
+               <head>15. <hi>Orchards and Vineyards.</hi>
+               </head>
+               <p>THE Sider Trade would be a brave improvement of rent: an Acre of Ground many times yielding fifty Hogſheads and more, beſides it would ſave the bringing in abundance of <hi>French</hi> Wine, however it would bring into uſe our own Liquor; if we yet muſt drink Foreign alſo, 'tis more ex<g ref="char:EOLhyphen"/>cuſable when we conſume our own too. If it be made well it is a luſcious and high bodied liquor, and eſteemed by many far above <hi>French</hi> Wine, as our <hi>Herefordſhire,</hi> and <hi>Devonſhire</hi> Gentry can teſtifie, and it were a good thing that when they planted Orchards, they would plant with the beſt fruit, as Pip<g ref="char:EOLhyphen"/>pin, Pearmain, Redſtreak, Golden-Rennet, which they may do as cheap as the worſt, yet notwithſtanding you ſhall ſee the common People plant whole Orchards of a pitiful ſort of Fruit, that will not turn to half the account of the other.</p>
+               <pb n="31" facs="tcp:104768:27"/>
+               <p>Vineyards alſo would do abundance of good in ſaving Foreign Wines, and taking up the ground, helping thereby other Commodities to vend better. And if all Gentlemen would have but what Wine they could make on their own Ground, they would not be ſo much beholding to <hi>France</hi> as they are, and have ſo little thanks for it. The chief thing in Vineyards is in chooſing a luſcious ſort of Grape, as the ſweet Muſcadel. Our ground is as good as theirs, if our Grapes were as good; and the earlyer the Grape is the better for us. And if when the Wine is made we do but pull out all the hard and unripe Grapes, and the green ſtalks of the Vine, we may make better Wine than they do, for 'tis that makes their Wine ſo rough and unwholſom, and often ſowers ſo ſoon. I have drank as good Wine here in <hi>England,</hi> as ever came out of <hi>France,</hi> both for ſmall Wine like <hi>Champeign,</hi> and a high Wine like <hi>Burgundy.</hi> Co<g ref="char:EOLhyphen"/>lonel <hi>Blunt</hi> and many others have had good Vineyards here of about two or
+<pb n="32" facs="tcp:104768:28"/>three Acres of ground, and ſold many Hogſheads to the Vintners.</p>
+            </div>
+            <div n="16" type="part">
+               <head>16. <hi>Tobacco.</hi>
+               </head>
+               <p>BUT that which would bring in<g ref="char:EOLhyphen"/>finite wealth to this Nation (if the Law would permit it) is the planting of Tobacco, it would alſo employ abundance of People, in til<g ref="char:EOLhyphen"/>ling, planting, weeding, dreſſing, and curing of it: it improves the rent of Land extreamly; for the Land which would not be worth otherwiſe above ten ſhillings an Acre, will by relation be worth three pounds <hi>per annum</hi> in To<g ref="char:EOLhyphen"/>bacco, and beſides the Tenant ſhall make thirty pounds, and forty pounds an Acre, all charges paid: before the ſeverity of the Laws againſt its plan<g ref="char:EOLhyphen"/>ting, it went well forward, and would ſtill, if it were reverſed; as thoſe Countries where it began to be plan<g ref="char:EOLhyphen"/>ted, do much deſire, and would, 'tis believ'd, willingly allow his Majeſty
+<pb n="33" facs="tcp:104768:28"/>the common rent of the Ground, or more, rather than be fruſtrated of it, if required. For by relation there were above ſix thouſand Plantations of it, in <hi>Glouceſterſhire, Devonſhire, Sommerſetſhire,</hi> and <hi>Oxfordſhire:</hi> all the objections that are againſt it, can<g ref="char:EOLhyphen"/>not vye with the advantages that it produces. Some ſay it is not ſo good as Foreign; however if People will take it as they do, and it will go off, what matter is it. It might be better if no Tobacco were taken at all, but who can help that which is grown to ſo great a uſe and vogue in the world. But others ſay 'tis better than any Fo<g ref="char:EOLhyphen"/>reign Tobacco, eſpecially for <hi>Engliſh</hi> bodies: and being a ſtrong Tobacco, they can cure it, and bring it to taſt in a manner as they will, like <hi>Virgi<g ref="char:EOLhyphen"/>nia, Spaniſh,</hi> or <hi>Barbados,</hi> and hath been often ſold in <hi>London,</hi> by relation, for <hi>Spaniſh,</hi> and as dear as any others. Some ſay it would ſpoil <hi>Virginia,</hi> what though it ſhould, we are bound to look to our ſelves at home firſt. Beſides it were better, if that <hi>New-England</hi>
+                  <pb n="34" facs="tcp:104768:29"/>and <hi>Virginia</hi> both, if poſſible, were remov'd farther towards the South, for then they would conſume our own Commodities, and might meet with ſtore of Silver and riches, whereas now they have little neceſſa<g ref="char:EOLhyphen"/>ry Trade for us, poſſeſſing only ſuch things as we have. But they conſume our People here by tranſportation, and take the Bread out of our mouths, by ſupplying <hi>Barbados, Jamaica,</hi> and the Southern Plantations, with the ſame Commodities as we do. How<g ref="char:EOLhyphen"/>ever it were better for <hi>Virginia,</hi> they planted no Tobacco, they living but poorly on it, and it takes up their thoughts from better improvements: as the planting of Mulberry trees, Vines, and Olives, as they begin in <hi>Carolina,</hi> by which means they would produce Silks, Wines, and Oyls, which would turn to a greater account; and beſides our Commodities that we cannot raiſe, and ſo would breed a better commerce; again our planting here would not take away their To<g ref="char:EOLhyphen"/>bacco Trade, for we would not whol<g ref="char:EOLhyphen"/>ly
+<pb n="35" facs="tcp:104768:29"/>ingroſs it to our ſelves, but plant it with equal liberty as others do, and vend our ſhares with them. It would help us, and not hinder them: if theirs be as they ſay ſo much bet<g ref="char:EOLhyphen"/>ter. Others object it would ſpoil the Kings Cuſtoms, and Navigation; but I think it would much advance them, for Foreign Tobacco is not at all prohibited to come in, and our Tobacco would fetch in ſo many other Commodities which will anſwer to the reſt, beſides the Cuſtom of its Exportation; however it were better to ſupply his Majeſty ſome other way, than by prejudicing the common good. And indeed it would be a great gain to this Nation, and his Majeſty. All the South of <hi>England</hi> being fit for it; and as for Cuſtom, Naviga<g ref="char:EOLhyphen"/>tion, and Foreign Trade; this is a Rule throughout, that the more home Trade, variety of Manufactures, and Husbandries we have within our ſelves, the more Foreign Trade we ſhall have alſo; from which flows Cuſtom and Navigation: for home Trade is
+<pb n="36" facs="tcp:104768:30"/>the foundation of Foreign, and if we are full of home Commodities, every private man will be of a publick ſpirit to gain Tranſportation for them.</p>
+            </div>
+            <div n="17" type="part">
+               <head>17. <hi>Of the Salt Trade, Latton, and Paper.</hi>
+               </head>
+               <p>THE Salt Trade would be a vaſt profit, if it were undertaken in all places of this Nation where it might. Whereas now we have moſt of our Salt from <hi>France.</hi> Then the Latton Trade would employ abundance of People, and conſume our own Commodities of Tin, and Iron, prove an excellent thing for Exportation. Paper alſo if it were made here would employ many hands, and many Trades, And it is a thing ſo gene<g ref="char:EOLhyphen"/>rally uſed all over the world, that it could not miſs of Sale; but this is not expected to be brought in, till
+<pb n="37" facs="tcp:104768:30"/>we have the Linen Trade, on which this depends, as being made thereon. No Nation uſes more Paper than we, and yet make none our ſelves, but only ſome ſmall quantity of brown Paper, and Paſt-board, and if we made but the white Paper we uſed, it would ſet on work thouſands.</p>
+            </div>
+            <div n="18" type="part">
+               <pb n="38" facs="tcp:104768:31"/>
+               <head>18. <hi>Of Mines.</hi>
+               </head>
+               <p>THere might be abundance of Mines of all ſorts found out more than there are if carefully ſought for.</p>
+               <p>Many Tin Mines might be found in <hi>Dartmore,</hi> and many places of <hi>Devonſhire</hi> as well as <hi>Cornwall,</hi> alſo ſtore of Marble Mines are there, and more might be diſcovered; alſo ſome where in the Weſt are Mines of Loadſtone.</p>
+               <p>Many Clays alſo are very profitable, as ordinary pot Clay, Tobacco-pipe Clay, crucible Clay, and ſuch that will endure the fire, and ſerve the Founders; as in the Iſle of <hi>Wight,</hi> and at <hi>Cheam</hi> in <hi>Surry,</hi> where it is ſold for fifty ſhillings a Load, for the excellency of it, by that honeſt Gentleman Colonel <hi>Bugges,</hi> who now hath it in poſſeſſion.</p>
+               <p>Clay that makes <hi>China,</hi> they ſay,
+<pb n="39" facs="tcp:104768:31"/>is lately diſcovered within the Nati<g ref="char:EOLhyphen"/>on. More advantage might be made of Silver Mines, if regarded; and better Mines found out.</p>
+               <p>More Coal Mines, and Quarries of Freeſtone might be found out, if looked after.</p>
+               <p>There is a kind of Rock-Salt, they ſay, lately diſcovered in the North of <hi>England.</hi>
+               </p>
+               <p>Though Mines yield no more than wages for the labour, yet it is great advantage to the Publick, in ſetting people on work, and beſides gaining very profitable Materials.</p>
+            </div>
+            <div n="19" type="part">
+               <pb n="40" facs="tcp:104768:32"/>
+               <head>19. <hi>Foreſts.</hi>
+               </head>
+               <p>IF the Foreſts of <hi>England</hi> were en<g ref="char:EOLhyphen"/>cloſed, what a world of People would they give Eſtates to. Gentle<g ref="char:EOLhyphen"/>men that want Bread now, may then ſit warm and be comforted; it would give Eſtates to all the wanting peo<g ref="char:EOLhyphen"/>ple of the whole Nation, for this Age; and let the next find out ſome<g ref="char:EOLhyphen"/>thing elſe in their Generation: beſides his Majeſties Revenue might be much advanced by it alſo, who might have three pence an Acre, <hi>per annum</hi> on all Fo<g ref="char:EOLhyphen"/>reſt Lands encloſed; alſo the more Lands we have incloſed and planted, the more ſtrong wealthy and populous we are; but the leſs encloſed and planted, the leſs ſtrong and wealthy. If Foreſts were encloſed, the ſame Taxes would be a fourth part lighter than now they are, to every body. The Nation would be ſo much improved, which is as good as joyning another Coun<g ref="char:EOLhyphen"/>try
+<pb n="41" facs="tcp:104768:32"/>to us for help: alſo what ſtore of new People would this breed, for Trade, War, or Navigation. What abundance of Farmers it would en<g ref="char:EOLhyphen"/>creaſe, and maintain many thouſands of poor Labourers; and abundance of Tradſemen alſo, to ſupply the others with neceſſaries. There would be ſeveral publick Offices, and Em<g ref="char:EOLhyphen"/>ployments for Miniſters and others, in every new Pariſh. And there would be to this Nation, in general, abundance of gain; and more main<g ref="char:EOLhyphen"/>tenance for numbers of People, there being above ſeventy Foreſts and Chaſes, and ſeveral of them which are bigger than the <hi>Barbadoes;</hi> beſides abundance of Waſts and Commons.</p>
+               <p>It is obſerved that thoſe Countries in <hi>England,</hi> that are moſt encloſed and populous, are moſt wealthy. That which makes <hi>China</hi> alſo ſo re<g ref="char:EOLhyphen"/>markable, is their great Husband<g ref="char:EOLhyphen"/>ing and encloſing of their Country, that they ſay, there is no more Waſts, beſides the Roads, in all that vaſt Dominion, which makes
+<pb n="42" facs="tcp:104768:33"/>it ſo infinite full of People, Trade, and Cities.</p>
+            </div>
+            <div n="20" type="part">
+               <head>20. <hi>Cutting of Rivers.</hi>
+               </head>
+               <p>THis Nation might be greatly advantaged by cutting of Ri<g ref="char:EOLhyphen"/>vers, and making them Navigable from one Town to another, and ſo breed a good commerce, where was none before, as from <hi>London</hi> to <hi>Bri<g ref="char:EOLhyphen"/>ſtol,</hi> which is very Feazable to be done. From <hi>Farnam</hi> to <hi>Guilford; Southampton</hi> to <hi>Wincheſter,</hi> and from <hi>Maidſtone</hi> higher into the Country; and from <hi>Lincoln;</hi> and in the North and Weſt to many places. In the North of <hi>England,</hi> about <hi>Carlile,</hi> it may be cut quite acroſs, and have courſe from Sea to Sea; as they have done lately in <hi>France,</hi> where they have cut a River acroſs the Nation, from <hi>Burdeaux</hi> in our Britiſh Seas to <hi>Narbone;</hi> and <hi>Aude</hi> in the Mediteranean Sea: that they may now Trade quite
+<pb n="43" facs="tcp:104768:33"/>through the Country about two hun<g ref="char:EOLhyphen"/>dred Miles.</p>
+               <p>Mr. <hi>Lee</hi> of the North his Engine, and Mr. <hi>Balyes</hi> Engine, both lately invented, will cut Rivers now at an eaſie rate, were they but employ'd enough; this would alſo ſet on work the poor extreamly.</p>
+            </div>
+            <div n="21" type="part">
+               <pb n="44" facs="tcp:104768:34"/>
+               <head>21. <hi>Variety of Trades, Profeſſions, and Ma<g ref="char:EOLhyphen"/>nufactures.</hi>
+               </head>
+               <p>THeſe Arts and Myſteries, above mentioned, would employ at the leaſt three Millions of People, more than are now ordinarily em<g ref="char:EOLhyphen"/>ploy'd. How bravely then ſhould we help our needy People, and ſupply our ſelves, and ſtore us with Money, brought in by Exportation, and what an infinite Trade and Con<g ref="char:EOLhyphen"/>ſumption of home Goods would this produce.</p>
+               <p>Many more Arts and Myſteries beſides may be brought in, as the making of Guilded Leather; all ſorts of <hi>Normandy</hi> toyes; all manner of Dying; making curious Earthen ware of all ſorts, <hi>China</hi> and the like, and abundance of others. Then Huſ<g ref="char:EOLhyphen"/>bandry
+<pb n="45" facs="tcp:104768:34"/>of all ſorts, as Saffron, Li<g ref="char:EOLhyphen"/>quoriſh, Saffe Flowers, very profita<g ref="char:EOLhyphen"/>ble, and grows well; the Flower flyes Scarlet. It produces thirty pounds <hi>per annum</hi> of an Acre profit, all charges born.</p>
+               <p>We ſhould ſtudy all manner of waies to get new employments for our People, that are profitable. What pains do the <hi>Dutch</hi> take to bring in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Trades into their Dominions; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough we could do it here with much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore gain and advantage, for Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mple, in making Latton, they bring <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Iron Plates from <hi>Sweden,</hi> their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in from <hi>Cornwall,</hi> their Coals from <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewcaſtle,</hi> their Water from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>artheſt part of <hi>Holland,</hi> beſides the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arge of their duties here, and yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake great profit.</p>
+               <p>Thus let us encreaſe our People and Manufactures by Induſtry, and there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill flow in to us all manner of Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il Trades, and common Profeſſions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill encreaſe to advantage, as being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſie occupations, and which depend <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the firſt, as having their Origi<g ref="char:EOLhyphen"/>nal
+<pb n="46" facs="tcp:104768:35"/>from abundance of People that are not Retailers, which make n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> productions, but only paſs the Mo<g ref="char:EOLhyphen"/>ney already gotten, from one to ano<g ref="char:EOLhyphen"/>ther; gaining only by each other loſs: Whereas Manufactures and Ar<g ref="char:EOLhyphen"/>tificers, breed and maintain People upon a grounded ſtock, ſupplying <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with neceſſaries, we could not have otherwiſe; giving us alſo occaſion to tranſport Commodities, and in ex<g ref="char:EOLhyphen"/>change bring in abundance of mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Riches. <hi>Holland</hi> for the bigneſs hath twice the populouſneſs and Trade tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we have, being the Richeſt ſpot <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ground in the Univerſe; and ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have but few Retailors, but the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chiefly conſiſt of Merchants and Ma<g ref="char:EOLhyphen"/>nufacturing men, which is a greate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> advantage to the Publick.</p>
+               <p>Again the more Goods of our ow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we conſume, the more we profit o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſelves, and leſs our Neighbours thus the Act for Burying in Woole<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> though by ſome deſpiſed, yet if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had gone forward, would have been great advantage in maintaining va<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="47" facs="tcp:104768:35"/>numbers of People, and conſuming things of our own growth. There being many thouſand perſons that die weekly in his Majeſties Dominions, which would have taken off much Woolen. And if all Men and Wo<g ref="char:EOLhyphen"/>men, were bound to wear Cloath in the Winter half year, it would be a great advantage to the Nation; for the more we conſume of Foreign Commodities, the more we ſtrengthen Foreigners, and weaken our ſelves, without we over ballance it by our own Exportation. For if we have not Manufactures, and home produ<g ref="char:EOLhyphen"/>ctions, had we never ſo many Silver Mines, they would be exhauſted; as we have an Example in the <hi>Spani<g ref="char:EOLhyphen"/>ard,</hi> who conſumes all the Silver he hath from the <hi>Indies</hi> on Foreign things he hath occaſion for.</p>
+               <p>This is certain, that whatſoever Commodities we can make, plant, or produce at home, it is very diſad<g ref="char:EOLhyphen"/>vantageous for us to fetch from abroad, and hinders us from riches and popu<g ref="char:EOLhyphen"/>louſneſs, which otherwiſe would en<g ref="char:EOLhyphen"/>creaſe
+<pb n="48" facs="tcp:104768:36"/>extreamly: wherefore let us ſet up all Manufactures and Handicrafts poſſible; ſo ſhould thouſands alſo of Retail Trades be increaſed, as neceſ<g ref="char:EOLhyphen"/>ſary to ſupply Manufacturing People; alſo advantaging Navigation by en<g ref="char:EOLhyphen"/>creaſing of Ships and Mariners.</p>
+               <p>Where abundance of Manufacturing people are, they conſume and ſweep away all Country Commodities, and the wares of ordinary Retail Trades, with all ſorts of Victuals, wearing Apparrel, and other neceſſaries, and imploy abundance of Handicrafts men, in Wooden and Iron work for Tools, and Inſtruments that belong to their Trades, and ſo maintain and encreaſe abundance of Husbandmen, Retailers, and Artificers of all ſorts, and they again encreaſing, take up more Ma<g ref="char:EOLhyphen"/>nufactures, and ſo they thrive one by another, <hi>ad infinitum.</hi>
+               </p>
+               <p>It would advance Trade much, that who was Free and had ſerved his time in one Corporation, ſhould have liberty to ſet up in any.</p>
+               <pb n="49" facs="tcp:104768:36"/>
+               <p>And alſo that Apprentices ſhould not ſerve above four or five years to many ſlight Trades; as alſo allowance for ingenious perſons to ſet up themſelves, without being Apprentice, if they have a mind to it. So ſhould many luſty Lads, and able men become Appren<g ref="char:EOLhyphen"/>tices and ſober Tradſemen, which are loth to live ſo great a part of their Lives in ſlavery, after they come to be grown up; thus would Induſtry be en<g ref="char:EOLhyphen"/>couraged, and many ingenious people get to themſelves a better lively-hood, than thoſe that have been longer bred up to it.</p>
+               <p>Alſo it were good that poor Manu<g ref="char:EOLhyphen"/>facturing men of all Trades ſhould be free from Taxes.</p>
+               <p>And that there were Prizes and Re<g ref="char:EOLhyphen"/>wards for all manner of Ingenuity and Induſtry. But that I may ſpeak once for all to Manufactures, the ſureſt way to bring them in, and eſtabliſh them here would be, to forbid all manner of Foreign wrought up Manufactures whatſoever to be brought in; whether Cloath, Silks, or Linen; alſo Lattin,
+<pb n="50" facs="tcp:104768:37"/>Paper, Riband, Gloves, Lace, and the like, at leaſt wiſe to put high Impoſts on them; ſo ſhould all Tradeſmen here encourage them quickly to be made in <hi>England,</hi> to ſupply their Shops. There would not be a poor Manufacturing man, but would be ſought to; and the Merchants, and Tradſemen too, would both contrive to Export our own Manufactories, ſo that then we might bring in what Foreign Commo<g ref="char:EOLhyphen"/>dities beſides we would, having Com<g ref="char:EOLhyphen"/>modities of our own, to over ballance them. And the beſt of our Gentry, would be beſt pleaſed to wear our own Commodities, and the vainer ſort would be pleaſed alſo, when there could come none from abroad to tempt them. And all people ſeeing the benefit that would follow, would promote it; and our own workmen being thus encou<g ref="char:EOLhyphen"/>raged, would grow great Artiſts, and curious in Modes and Inventions.</p>
+            </div>
+            <div n="22" type="part">
+               <pb n="51" facs="tcp:104768:37"/>
+               <head>22. <hi>Of Employments, and Preferments.</hi>
+               </head>
+               <p>WE ought to find out Em<g ref="char:EOLhyphen"/>ployments for all manner of wanting People whatever, that are able to perform any thing. As alſo all manner of decay'd People ſhould find help and redreſs by ſome publick works of Charity, and proviſion for them, that there might be no Indigent people found amongſt us.</p>
+               <p>Comfortable Preferments for many ought to be provided, rather than great Preferments for few.</p>
+               <p>It is good for the Common-wealth, that the Rich hoard not up their Mo<g ref="char:EOLhyphen"/>ney, but employ the poor people in general works, as building of Houſes, Colledges, Bridges, or the like, Im<g ref="char:EOLhyphen"/>proving of Grounds, cutting of Ri<g ref="char:EOLhyphen"/>vers, diſcovering of Mines, and dig<g ref="char:EOLhyphen"/>ging of Quarries, planting of Wood,
+<pb n="52" facs="tcp:104768:38"/>and many other things might be In<g ref="char:EOLhyphen"/>vented alſo. For we ſhould endea<g ref="char:EOLhyphen"/>vour ſtill to bring in ſome new Trades that may produce employment.</p>
+               <p>For employ but a multitude of Peo<g ref="char:EOLhyphen"/>ple any where in the Kingdom, in ſuch a way what ever it is, that they may get their own lively-hoods, and they ſhall all not only encreaſe the ſtock of the Nation, but they ſhall bring great profit by the other Goods and Commodities which will of courſe be vended on them; how much gain therefore are new Employments and Profeſſions, that not only maintain themſelves and conſume our own Commodities; but alſo ſave Money in our Purſes; bring in riches, and make us flouriſh in People: Certain<g ref="char:EOLhyphen"/>ly the gain of it is incredible. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had we but ſtore of People, by Pro<g ref="char:EOLhyphen"/>feſſions, Employments, Manufactures or any way, we need not ſeek vend for our Cloath or Corn abroad, fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it would be conſum'd at home at grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rates.</p>
+               <pb n="53" facs="tcp:104768:38"/>
+               <p>And when once our own Nation were ſo populous, and all in employ<g ref="char:EOLhyphen"/>ment, that the product of our Coun<g ref="char:EOLhyphen"/>try, could not ſupply them, but we were forced to procure Commodities from abroad, not by our own ill Huſ<g ref="char:EOLhyphen"/>bandries, but by the numerouſneſs of our People, then would our Trade arrive to a height, and we to a flou<g ref="char:EOLhyphen"/>riſhing Condition.</p>
+               <p>For there are ſeveral Myſteries and Employments, that even Women, nay Children of eight or nine years old, would earn more Money than they ſpend. As they ſay about <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> the gain of their ſmall Chil<g ref="char:EOLhyphen"/>dren exceeds their expences above twelve thouſand pounds <hi>per annum.</hi> Much advantages have been made in ſeveral Towns, by ſetting uniformly to ſome Employment. As at <hi>Man<g ref="char:EOLhyphen"/>cheſter</hi> Lace, <hi>Blanford</hi> Band-ſtrings, <hi>Sheffeild</hi> Knives, <hi>Lancaſhire</hi> Fuſtians, <hi>Ipſwich</hi> the beſt Sails that ever were made. <hi>Workenſop</hi> Liquoriſh, <hi>Farn<g ref="char:EOLhyphen"/>han</hi> Hopps, <hi>Saffron-Walden</hi> Saffron, <hi>Winchcomb</hi> Tobacco. At <hi>Norwich,
+<pb n="54" facs="tcp:104768:39"/>Canterbury,</hi> and <hi>Colcheſter,</hi> as alſo in <hi>Spittle-fields,</hi> and ſome Suburbs in <hi>London,</hi> the making of all ſorts of Stuffs, Silks, Sattins, and Vel<g ref="char:EOLhyphen"/>vets, which arrive to a great height. Silks eſpecially at <hi>Canterbury,</hi> and the Suburbs of <hi>London;</hi> and with little encouragement the Trade would be abſolutely compleated. At <hi>Maidſtone</hi> they drive an excellent Trade, only by Thread; which within this thirty or forty years, they did not vend above forty pounds a week, now it is ſo increaſed, that they vend a thou<g ref="char:EOLhyphen"/>ſand pounds a week. So alſo at <hi>Exe<g ref="char:EOLhyphen"/>ter</hi> they vend, by relation, many thouſand pounds worth of Serges eve<g ref="char:EOLhyphen"/>ry week. How profitable have the <hi>Dutch</hi> Collony been to <hi>Colcheſter,</hi> by being entertain'd there about twenty years ago; who ſetled a rich Trade of Stuffs there, which ſince is ex<g ref="char:EOLhyphen"/>treamly advanced; which was offered firſt to <hi>Malden,</hi> who have loſt much wealth by refuſal of ſo brave a proffer. In Foreign parts, <hi>Embden</hi> in <hi>Hollan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſets forth ſeven hundred Buſſes yearly
+<pb n="55" facs="tcp:104768:39"/>to the Fiſhing Trade; <hi>Cambray</hi> main<g ref="char:EOLhyphen"/>tains thouſands of People in making of Cambrick; <hi>Iper</hi> with Holland; and at <hi>Courtray</hi> Diaper and Damask. What an infinite of Tapiſtry-men are there at <hi>Arras, Bruſſels,</hi> and <hi>Delf. Geneva</hi> wholly lives on their Silk Ma<g ref="char:EOLhyphen"/>nufactury. And <hi>Genoa</hi> in <hi>Italy,</hi> main<g ref="char:EOLhyphen"/>tains eighteen thouſand People on<g ref="char:EOLhyphen"/>ly in making Silk from the Worm.</p>
+               <p>In <hi>Grand Cairo</hi> in <hi>Egypt,</hi> thouſands of People live by hatching of Chickens in Stoves.</p>
+            </div>
+            <div n="23" type="part">
+               <pb n="56" facs="tcp:104768:40"/>
+               <head>23. <hi>Of Colledges, of Ma<g ref="char:EOLhyphen"/>nufactures, and Enrich<g ref="char:EOLhyphen"/>ment of particular Pariſhes.</hi>
+               </head>
+               <p>TO put in practice a thing bene<g ref="char:EOLhyphen"/>ficial to the Common-wealth, it ſhould be made as Univerſal as poſſible; and that it be univerſal, all particular Pariſhes ought to be employ'd in it. So if it be but an employment of common Induſtry, yet it will turn to a rich and profitable account. Now Manufactories are ſo eminently advantageous, that thoſe of all things would do the buſineſs of a Nation, being fit alſo for a ge<g ref="char:EOLhyphen"/>neral reception.</p>
+               <p>To which purpoſe 'twere well if in every Pariſh they had a Colledge of Manufactures, or ſome Art or
+<pb n="57" facs="tcp:104768:40"/>other that would ſurely maintain the ordinary People in that Circuit.</p>
+               <p>And obſerve that thoſe Pariſhes that have Foreſt, or waſte Land belonging to them, it were well if a portion of it were ſet apart in this manner, or the like to the publick good, <hi>(viz.)</hi> Fourſcore Acres to the Colledge of Manufactory, allowing twenty Fami<g ref="char:EOLhyphen"/>lies in the Colledge, each Family Lodgings for them, and four Acres of Ground, which they ſhould have for the Manufacturing mans life. Alſo there might be Glebe Lands allowed for all the publick Offices of the Pa<g ref="char:EOLhyphen"/>riſh beſide; as the Miniſter, School<g ref="char:EOLhyphen"/>maſter, and Clerk, as alſo an allot<g ref="char:EOLhyphen"/>ment for the Poor of the Pariſh. By this means there might be ſome pro<g ref="char:EOLhyphen"/>viſion of certainty. They may advance them what beſides they pleaſe. In great Cities and Towns alſo, it were good there were publick Colledges of Manufactures erected, that ſhould be bound to take in yearly ſo many hun<g ref="char:EOLhyphen"/>dred of poor People <hi>gratis.</hi>
+               </p>
+               <p>The uſeful Manufactures, Trades,
+<pb n="58" facs="tcp:104768:41"/>and Husbandries the People may be employ'd about, are many, <hi>(viz.)</hi> Cloath-Serge, Stuffs, Silk, Sattins, Velvets, Tapiſtry, Linen, fine and coorſe; as Holland, Cambrick, Dia<g ref="char:EOLhyphen"/>per, Damask, Sail-cloath, Fuſtian, all manner of Cotten, Chamlet, Drug<g ref="char:EOLhyphen"/>get, making Thread, alſo Paper Lat<g ref="char:EOLhyphen"/>ton, Guilded Leather, Gloves, Rib<g ref="char:EOLhyphen"/>bands, Lace, and many more.</p>
+               <p>As alſo Husbandries of Hops, Or<g ref="char:EOLhyphen"/>chards, Bees, Liquoriſh, Saffron, To<g ref="char:EOLhyphen"/>bacco, Oad, Madder, the Saffe Flow<g ref="char:EOLhyphen"/>er, Rape Nurſeries, Vineyards, Cher<g ref="char:EOLhyphen"/>ry Gardens, and all manner of Gar<g ref="char:EOLhyphen"/>dening.</p>
+               <p>So ſhould the Country be enriched, and the People maintain'd, and all other Husbandry Commodities vend the better.</p>
+            </div>
+            <div n="24" type="part">
+               <pb n="59" facs="tcp:104768:41"/>
+               <head>24. <hi>Of Marriage, and Populacy.</hi>
+               </head>
+               <p>THE Country complains of ſmall vend of Commodities, which proceeds eſpecially from want of Peo<g ref="char:EOLhyphen"/>ple; for our People were conſum'd mightily in theſe late years, ſome three hundred thouſand were killed in the laſt Civil Wars; and about two hundred thouſand more have been waſted in re-peopling <hi>Ireland;</hi> and two hundred thouſand loſt in the great Sickneſs, and as many more gone to Plantations. So that theſe things muſt bring us low of People: Where<g ref="char:EOLhyphen"/>as did we Eſtabliſh the Fiſhery Ma<g ref="char:EOLhyphen"/>nufactures, and incloſure, it would quickly recruit us. For we are able to contain twice the number of Peo<g ref="char:EOLhyphen"/>ple we are, meerly by Incloſures: Though if we had but a million more of People than now, we ſhould quick<g ref="char:EOLhyphen"/>ly
+<pb n="60" facs="tcp:104768:42"/>ſee how Trade and the vend of things would alter for the better. And this would hinder people from going out of the Nation, when they may have Land, Preferment, or Em<g ref="char:EOLhyphen"/>ployment here.</p>
+               <p>Another way for increaſing popula<g ref="char:EOLhyphen"/>cy, is by encouraging all ſorts of trading people to come and Inhabit here, which is done by making all Nations free Denizens, that will live here. And why ſhould not we, as the <hi>Hollanders</hi> do at <hi>Amſterdam,</hi> de<g ref="char:EOLhyphen"/>clare all the World to have freedom in our Nation, as their own; it would make us thrive infinitely, and bring in all the Arts, Manufactures, and Ingenuity of <hi>Europe.</hi> Some object, they would breed a mixt Nation. As for that they would ſignifie nothing, as to the number of our own; if it did, why may not ſeveral Nations live under one Government, as they do in <hi>Holland,</hi> trading people value not that; they love to live where they are moſt ſecure; Beſides, coming in by degrees they would not be con<g ref="char:EOLhyphen"/>ſiderable.
+<pb n="61" facs="tcp:104768:42"/>And generally they that come over are men that would Mar<g ref="char:EOLhyphen"/>ry <hi>Engliſh</hi> Women, ſo are <hi>Engliſh</hi> preſently; and are good Preferm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt to ordinary Women, being generally tradſemen, and Manufacturing men, as we ſee in many <hi>French</hi> and <hi>Dutch</hi> already, that are perfectly <hi>Engliſh.</hi> However in half an Age they would be as much <hi>Engliſh</hi> as our ſelves. The old ſtock going off, and the Children being born in <hi>England,</hi> ſup<g ref="char:EOLhyphen"/>plying their places; and however at preſent live as quietly, and are good Subjects, and as great lovers of us and the Kingdom as others: or elſe they would never leave their own Nation, ſo formally to Inhabit here; for all that do ſo leave their Country, ſhew an extraordinary affection unto this place, and ſo are by all means to be received and countenanced. What ever they are before, when once they come here, to be under our Laws, Cuſtoms, and Government, they are ſoon all one with us. By this means alſo we ſhould draw back our own
+<pb n="62" facs="tcp:104768:43"/>
+                  <hi>Engliſh</hi> from <hi>Holland</hi> and all <hi>Europe</hi> eſides, and many of our Plantations alſo; this and the Fiſhery would bring in an infinite Trade to <hi>England,</hi> and ſo drein <hi>Holland</hi> of her Men, Money, and Merchandiſe, that we ſhould leave them bare of every profitable thing: And no way can we be too hard for them like this, for the Fiſh<g ref="char:EOLhyphen"/>ing Trade is that which clearly ſets them up, the one gets them great Numbers of People, the other abun<g ref="char:EOLhyphen"/>dance of Money or exchange for all manner of Merchandiſes; by this they get ſo much wealth from all Places. Now if matters were regulated aright, we ſhould very much out do them in their own way; this Iſland lies much better for Trade, and is a much more pleaſant and capacious Country for Inhabitants, for they themſelves had rather live and pur<g ref="char:EOLhyphen"/>chaſe Land here than there: Land being cheaper, more Seats to be bought, and every thing more convenient for ſuch Merchants that have gotten Eſtates in their own Country. And if once
+<pb n="63" facs="tcp:104768:43"/>they were ſettled and fixed here, they would bring over millions of Money, and many trading people alſo if they may be free Denizons, with a tolera<g ref="char:EOLhyphen"/>tion, and priviledges ſutable. Ano<g ref="char:EOLhyphen"/>ther way of being populous is counte<g ref="char:EOLhyphen"/>nancing Marriage and a ſettled Life, giving it many Priviledges more than either ſingle or debauched perſons, and that none but Married perſons be ca<g ref="char:EOLhyphen"/>pable of any profitable Office or Pre<g ref="char:EOLhyphen"/>ferment. This is the very Original of the well being and continuance of Na<g ref="char:EOLhyphen"/>tions. Upon this property, Families, and civil Government depends, alſo Trade, Riches, Populacy; and without this a Nation crumbles to nothing. Beſides, Married People are more honeſt, oeco<g ref="char:EOLhyphen"/>nomical, and Induſtrious. By the Laws of <hi>Lycurgus,</hi> elderly Batchelors were baniſhed the company of all ci<g ref="char:EOLhyphen"/>vil and honeſt people. Where a Na<g ref="char:EOLhyphen"/>tion is given to be Licentious, they breed but few Children. Lewd Wo<g ref="char:EOLhyphen"/>men make away their Children, or order it ſo they never have many. And it is an ill Cuſtom in many
+<pb n="64" facs="tcp:104768:44"/>Country Pariſhes, where they, as much as they can, hinder poor people from Marrying: for at preſent they are the very ſtock and ſeminary of the Kingdom, they marry apace, and get a laborious hardy Generation, which is beſt for a Nation. They value not Portions, ſo they are able to ſerve, work, or any way earn their living, which is a brave humour. For we ought to encreaſe the world for the publick good; and to be contented in a mean, and not ſacrifice our thoughts to Ambition; and were it not for theſe poor honeſt people, we ſhould be almoſt deſolate. Strictneſs of Ma<g ref="char:EOLhyphen"/>trimonial Laws, and Penalties againſt lewdneſs, breeds conſtancy and plea<g ref="char:EOLhyphen"/>ſure in lawful ties, and hinders the very thoughts of looſe deſigns; ma<g ref="char:EOLhyphen"/>king people follow their callings quiet<g ref="char:EOLhyphen"/>ly, and ſoberly, when the pain of the Penalty ſpoils the ſweet of Luxury, and every honeſt man would be glad, that by this means himſelf is alſo kept from ſuch Vices, otherwiſe he would be apt to commit. There is a great
+<pb n="65" facs="tcp:104768:44"/>complaint of many people flocking out beyond Sea to Plantations, why is it not prevented, it cannot be done by force, for who can keep in ſuch that are ready to ſtarve for want of Bread, wherefore it muſt be done by raiſing of Employments, Profeſſions, and Trade for young perſons, and Chil<g ref="char:EOLhyphen"/>dren, which would encourage People to get them. For by that means we may employ twice the number of People that we have. What makes <hi>New England, Jamaica,</hi> and the Plantations abroad, increaſe ſo faſt; but becauſe they have Employments and Eſtates for all People, and no poor among them; which encourages People to come from abroad, and their own People to Marry, and get Children: when they know as ſoon as they are grown up, they can give every Child an Eſtate, by ſetting them out ſo many Acres in a freſh Plantation, ſo they increaſe <hi>ad infinitum,</hi> till they have ſtockt the Iſlands and Country full; as they have in <hi>Barbadoes;</hi> which Iſland
+<pb n="66" facs="tcp:104768:45"/>being not above twenty eight Miles long, and fourteen Miles broad, yet by relation contains fifty thouſand <hi>Engliſh</hi> beſides twice as many <hi>Blacks.</hi> And if we did ſet up Manufactures, and incloſe the Foreſts, we ſhould populate as much; we having ſeveral Foreſts bigger than the <hi>Barbadoes.</hi> And great Eſtates ſhould not be de<g ref="char:EOLhyphen"/>ſired to leave Children but ſo much as to help Induſtry. Why ſhould not Ingenious perſons, by publick eſta<g ref="char:EOLhyphen"/>bliſhment, be allowed forty or fifty Acres to a Family, out of theſe Lands, which are now more charges than benefit. How brave a proviſion this would be for ruined Families, and improvement to the riches, popu<g ref="char:EOLhyphen"/>lacy and grandeur of the Nation. Who can blame people to go beyond Seas, when they cannot live here; it is meer need and force that drives them out of the Kingdom. And it is a ſign of great. Ingenuity that they will go, and ſtrive to live any where. <hi>England</hi> is not half Peopled, and yet we find not employment for thoſe
+<pb n="67" facs="tcp:104768:45"/>we have. Therefore judge you how it would encreaſe people and employ<g ref="char:EOLhyphen"/>ments, if the Foreſts were incloſed, and how many people lie wanting now, that this would help and re<g ref="char:EOLhyphen"/>lieve.</p>
+            </div>
+            <div n="25" type="part">
+               <pb n="68" facs="tcp:104768:46"/>
+               <head>25. <hi>Kings Revenue, Taxes, Cuſtoms.</hi>
+               </head>
+               <p>IT is a great ſtrength, and advance alſo to a Nation to allow the Prince a conſiderable Revenue, for ſo will he be able to countenance his Subjects, and defend them from all aſſaults. And the keeping a plentiful Court, ſome ſmall Forces, and Na<g ref="char:EOLhyphen"/>vy, gives good Preferment to the Subjects; but Taxes were better raiſed any way than from the Land, for that drives the Money out of the Coun<g ref="char:EOLhyphen"/>try, which ſeldom or never returns. And is hard to be got to it upon any occaſion, but it would be great advantage to his Majeſtie, and gratifie his Subjects infinitly if he could get a conſiderable Revenue ſome where from without, by which means his own people might be eaſed at
+<pb n="69" facs="tcp:104768:46"/>home, which would bind them to him Eternally, beſides the great ad<g ref="char:EOLhyphen"/>vantage it would be to the Nation, by ſuch a yearly Income of Silver continually; and queſtionleſs the King of <hi>England</hi> might have five times the Revenue he hath brought yearly to him from the <hi>Weſt-Indies,</hi> when he pleaſes, beſides the vaſt Trade which would enſue by it, to all his Sub<g ref="char:EOLhyphen"/>jects. However there might be waies found out, that no Taxes might ever be laid, on the ſubſtantial part of the Nation, Country, or City, Land, or Houſes, but only on the Vices of the people, as in all Taverns, Ale-houſes, Foreign needleſs Com<g ref="char:EOLhyphen"/>modities, and on debauched perſons, and alſo double Cuſtoms on all ſuch Goods brought over, that we might make here, as Silks, Linen, Ta<g ref="char:EOLhyphen"/>piſtry, Lace, Gloves, Ribands, Pa<g ref="char:EOLhyphen"/>per, and many things more.</p>
+               <p>Alſo whereas perſons deſign'd to live ſingly, alwaies are debauch'd themſelves, and great corrupters of others; beſides by avoiding Marri<g ref="char:EOLhyphen"/>age
+<pb n="70" facs="tcp:104768:47"/>they partake not of the common troubles and charges of the Publick, as others do, but ſhift themſelves, and live ſcandalouſly, ſpending their Eſtates idlely. It were well that no ſingle perſon were capable of Pre<g ref="char:EOLhyphen"/>ferment, and that all perſons who Married not at twenty five years old, ſhould pay the tenth part of their Eſtates to his Majeſty: for they might better ſpare it than any body. For it Engratiates his Majeſty ex<g ref="char:EOLhyphen"/>tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amly in the hearts of his People; and the generality and ſober part of the Nation to be eaſed from Taxes, and all oppreſſions, which ought to be properly the Penalty of Vicious perſons; which if all things of this nature were diſcovered, would raiſe a greater Revenue than ever yet hath been known. And this done with<g ref="char:EOLhyphen"/>out grievance to the Nation but be<g ref="char:EOLhyphen"/>nefit.</p>
+               <p>And nothing advances the King of <hi>England</hi> more than to be eſteemed the Champion, and vindicator of the Proteſtant Religion throughout
+<pb n="71" facs="tcp:104768:47"/>Chriſtendom, and to ballance thoſe Princes that ſhall ſeek to diſturb them. And let this Nation be a Sanctuary for them from all parts; ſo ſhould his Majeſtie be truly great in himſelf, and in the eyes of all the World; and nothing could he deſire to be done, but would be effected; ſo alſo ſhould we be ſilled with Trading and Mercantile people throughout all <hi>Europe.</hi> For it is ob<g ref="char:EOLhyphen"/>ſerved that where the Proteſtants are countenanced, there all manner of Trade and improvement follow more than in other places, as well as ad<g ref="char:EOLhyphen"/>vancement in Reaſon and Philoſophy: Being a rational and induſtrious peo<g ref="char:EOLhyphen"/>ple, not having their Souls or man<g ref="char:EOLhyphen"/>nes inſlam'd to ſuperſtitious Principles, which makes them hold to all inge<g ref="char:EOLhyphen"/>nious proſecutions: but having their minds free, and ready to embrace any improvement, learning or Trade. And if his Majeſty deſires to advance his Empire, it is but granting more priviledge to Trade, and ſecurity to mens perſons, and properties from
+<pb n="72" facs="tcp:104768:48"/>Arbitrary power; and controul: then his fellow Princes; and he ſhall not fail to draw to him all the Hands, Hearts, and Purſes of the neighbouring Nations.</p>
+            </div>
+            <div n="26" type="part">
+               <head>26. <hi>Of publick maintenance, and proviſion of Charity.</hi>
+               </head>
+               <p>THere is a great deficient in the Nation, which is Employment, and aid for young Gentry that have not been bred up in the Univerſity, or cannot get Preferment thence, yet are Learned or Induſtrious, though of ſmall Fortune; and again a ſub<g ref="char:EOLhyphen"/>ſiſtance for decay'd and meriting men of elder age. Alſo a maintenance for decay'd and ſick Souldiery and Seamen; likewiſe a proviſion for In<g ref="char:EOLhyphen"/>genious Manufacturing men, ſo ſhould Ingenuity be encouraged, and com<g ref="char:EOLhyphen"/>plaints
+<pb n="73" facs="tcp:104768:48"/>of poverty, and diſcontent be taken away from the midſt of us. And for a way to raiſe theſe, four Colledges, for each of the afore<g ref="char:EOLhyphen"/>mentioned degrees, might be found<g ref="char:EOLhyphen"/>ed of five thouſand pound <hi>per annum</hi> Revenue a piece, and two hundred perſons in each Colledge, which would be but twenty thouſand pounds a year in all, a rent which ſome one vain perſon oftentimes confounds in debauchery. And yet this would give a ſmall ſubſiſtency of Lodging, and twenty pound five <hi>per annum</hi> to eight hundred perſons in the four Colledges; and as they die others to be choſen in their rooms. To effect this, a Fo<g ref="char:EOLhyphen"/>reſt or two only incloſed, and well Tenanted to the beſt advantage, would ſuffice, which were a noble enterpriſe, for the generoſity of doing good, is beyond all other actions, nay there is one Foundation, which would by relation, largely anſwer all theſe ends, if it were looked into, and that is St. <hi>Katherines</hi> Hoſpitals, in the <hi>Tower,</hi> whoſe Revenue is ſaid
+<pb n="74" facs="tcp:104768:49"/>to be above twenty thouſand pounds <hi>per annum.</hi> Alſo there is another near the <hi>Bath,</hi> of above a thouſand a year, and now turns to no account for the publick, conſiderable. And many more doubtleſs might be found out in the Nation, if inſpected, that are not Alienated, but only wrongly executed, or lie dormant.</p>
+               <p>The advantage of a Nation is to have many Preferments, for indu<g ref="char:EOLhyphen"/>ſtrious and neceſſitous perſons, though but of an indifferent maintenance, for too much many times prejudices peo<g ref="char:EOLhyphen"/>ple; but a moderation comforts, and doth much good, and 'tis pity there is not ſome way found out, that all perſons in any calamities, may have ſome comfortable relief. And it were well if the Parliament would take this ſo neceſſary a thing into conſi<g ref="char:EOLhyphen"/>deration; what were one Tax of three or four hundred thouſand pounds, for ſo great a work as this, if it could be done, no other way: to give Pre<g ref="char:EOLhyphen"/>ferments to all ſorts of Gentlemen and Scholars. According to their better
+<pb n="75" facs="tcp:104768:49"/>Education, and Employment for the meaner ſort, by planting them in Col<g ref="char:EOLhyphen"/>ledges of Art and Manufactories, that there might not be any but may live well one way or other. Certain<g ref="char:EOLhyphen"/>ly to ſo great and good a work, all people would joyfully contribute.</p>
+            </div>
+            <div n="27" type="part">
+               <pb n="76" facs="tcp:104768:50"/>
+               <head>27. <hi>Learning.</hi>
+               </head>
+               <p>KNowledge in a Nation, makes a wiſe and ſober People, as well as wealthy and ingenious, and apt for every good thing; therefore Ignorance ought to be deſtroy'd, all manner of waies and Learning encou<g ref="char:EOLhyphen"/>raged.</p>
+               <p>To which purpoſe it were well that the Arts and Sciences, were taught in the Mother Tongue, and all man<g ref="char:EOLhyphen"/>ner of Books of uſe and Learning, in any other Language Tranſlated into our own; and that there were a publick maintenance for Profeſſors, and Scholars that ſhould teach the Sciences in the Mother Tongue; and Accademies erected for that purpoſe, ſo ſhould youth quickly improve in Knowledge, and men be fuller of wiſdom then at twenty, than now they are at forty yeares of age. Not that I would have the Languages neglect<g ref="char:EOLhyphen"/>ed,
+<pb n="77" facs="tcp:104768:50"/>but all may learn thoſe as before. But that the <hi>Engliſh</hi> Tongue may be promoted and made excellent, general, and uſeful in all manner of Know<g ref="char:EOLhyphen"/>ledge. And young Gentlemen that have a mind to it, may attend the Sciences without ſo much trouble, and cracking their brains ſo many years about Learning the Languages. This would make the generality of the Nation more Wiſe, Learned, and uſeful one to another, both to them<g ref="char:EOLhyphen"/>ſelves, and Country, and our Lan<g ref="char:EOLhyphen"/>guage would be popular, and eſteem<g ref="char:EOLhyphen"/>ed in all places. For the deſire of re<g ref="char:EOLhyphen"/>taining Languages, is only for the Learning contain'd in them, which if diſcloſed without them, their extra<g ref="char:EOLhyphen"/>ordinary uſe ceaſeth.</p>
+               <p>It were an excellent advantage al<g ref="char:EOLhyphen"/>ſo to all perſons, eſpecially Scholars and Students, that the Arts and Sci<g ref="char:EOLhyphen"/>ences, and all manner of the beſt Knowledge were reduced into a nar<g ref="char:EOLhyphen"/>rower room, and exacter Method; and that there may be one Book, that may be compoſed in each Art,
+<pb n="78" facs="tcp:104768:51"/>and Science, that may be abſolute and compleat in its kind, and thoſe to be written and compiled, by men ſelected for that purpoſe, that are very eminent in ſuch Arts and Sci<g ref="char:EOLhyphen"/>ences, that they who have a deſire to Knowledge, ſhould be able pre<g ref="char:EOLhyphen"/>ſently to reſort to the choiceſt Book, and improvement in any Art or Sci<g ref="char:EOLhyphen"/>ence. And come to knowledge and perfection in ſtudy, with much leſs reading and trouble than now. Learn<g ref="char:EOLhyphen"/>ing might be ſo reduced, that all Knowledge at large might be well bought for three hundred pounds (or leſs,) which now ten thouſand will not purchaſe.</p>
+               <p>And for a contracted Receptory of all Knowledge, it were good there were an <hi>Enciclopedia</hi> or Body of all the Arts and Sciences, in two or three Volumes, in the Mother Tongue. <hi>Alſtedius</hi> hath done very ingeniouſly in this kind, in the Latin, but yet is capable of much Improvement; and a Book of this nature would be moſt rare and excellent, and if it were
+<pb n="79" facs="tcp:104768:51"/>exactly performed, would give to mankind as much knowledge as were neceſſary.</p>
+               <p>Alſo ſtore of Libraries in great Ci<g ref="char:EOLhyphen"/>ties, are very uſeful; they are as good almoſt as ſo many Academies for where there is a great concourſe of People, there are many of extraordi<g ref="char:EOLhyphen"/>nary parts, who yet have not abilities to compaſs a ſtock of Books, which if they had a freedom of acceſs to, would of themſelves arrive to great knowledge and perfection. Much more might be ſaid of this Subject, but I refer that to my <hi>Diſcourſe of Advance<g ref="char:EOLhyphen"/>ment of Learning.</hi>
+               </p>
+            </div>
+            <div n="28" type="part">
+               <pb n="80" facs="tcp:104768:52"/>
+               <head>28. <hi>Laws, and eaſing of Debtors.</hi>
+               </head>
+               <p>CAre ought to be had, that the property, liberty, and advan<g ref="char:EOLhyphen"/>tage of the Subject be the eſpecial grounds of Laws; and ſuch Laws extreamly promoted, that make for a general good and profit to the Pub<g ref="char:EOLhyphen"/>lick. As for eſtabliſhing unity in a Nation, encouraging Trade, giving employment to the People, and en<g ref="char:EOLhyphen"/>creaſing populacy, and ſettling Eſtates, the Regiſters Office to be Erect<g ref="char:EOLhyphen"/>ed, might be beneficial if well ma<g ref="char:EOLhyphen"/>naged.</p>
+               <p>And if Uſury were abated it would promote Trade, advance Lands, make men abler to give ſecurity, encreaſe common Charity, and generally make men more Induſtrious.</p>
+               <p>Taking of Arreſts on mens perſons, would alſo be beneficial to the Nation.
+<pb n="81" facs="tcp:104768:52"/>And if all Debts under fifty pounds were ended in the Pariſh where the Debt was, by the chief of the Pa<g ref="char:EOLhyphen"/>riſhoners, it were very well.</p>
+               <p>And all Debts under a hundred pound were concluded by three the next Juſtices of Peace, it would prove of good conſequence.</p>
+               <p>Alſo care ought to be had, that men ſhould not be Impriſoned at all for ſmall Debts, nor long for any Debt, mens perſons being not an equal pawn for ſo vile a thing as Mo<g ref="char:EOLhyphen"/>ney. And for great Debts, if the Law and Goods would not ſatisfie, the perſon ſhould be free, for by Impri<g ref="char:EOLhyphen"/>ſoning he is undone, that ſhould main<g ref="char:EOLhyphen"/>tain his Family; then all come to beggery. So the Nation is prejudiced by the malice of ill Creditors. And if men are more in Debt than they are worth, they ſhould yet have ſome ſmall matter, as a fourth part unto themſelves and Family, uncapable to be ſeized on; otherwiſe the Common<g ref="char:EOLhyphen"/>wealth ſuffers more by the abſolute undoing of a man, than is counter<g ref="char:EOLhyphen"/>vail'd
+<pb n="82" facs="tcp:104768:53"/>by ſo exact Juſtice; beſides, Religion, and the Laws of nature, bind us to more Charity, and the Creditor that Impriſons, and undoeth a man, ought to maintain him and his Family; if not, the Law ought to take care he may, without being beholding to the Creditor; for 'tis better a Rich Creditor ſhould loſe ſomething, than a Poor Subject be loſt or rot in a Priſon.</p>
+               <p>Alſo it would be a great advantage to the Publick, and Trade one with another, and Foreign parts alſo, if Bills of Credit were made to be good in Law, and anſwer Debts; which ſhould without ready Money, main<g ref="char:EOLhyphen"/>tain, and advance Trade infinitely; for theſe Bills would paſs current as well as Money, and ſave alſo very much the telling, and luggage of car<g ref="char:EOLhyphen"/>rying Money up and down, and hin<g ref="char:EOLhyphen"/>der the loſs received by bad, or clipt Coin, and manage a vaſt Trade with the tenth part of the Silver now uſed, which would make Money abound every where for the Common uſes,
+<pb n="83" facs="tcp:104768:53"/>and the ordinary conveniences of life. Many excellent improvements might be made by ſeveral new Laws.</p>
+               <p>Alſo how many old Laws are there that bar us of our advantage; and how can we expect to thrive till ſuch be repealed?</p>
+               <p>We complain of ill rents of Lands, and yet barr that which would advance them; as planting Tobacco, and bring<g ref="char:EOLhyphen"/>ing down the Intereſt of Money. We complain of want of vent for our Commodities, and forbid Foreigners <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Export them but in our own bot<g ref="char:EOLhyphen"/>toms, who will ſooner do it than our own, and to more advantage to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+               <p>We complain of want of Trade and Manufacturing People, and forbid them ſetting up Trades, that have not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een Apprentice to it Seven years: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon which account, of late many Cloathiers and Serge dealers would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave been put down, had not the fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our of the Judges eaſed them a lit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le for the preſent. Again, none can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e free of Corporations, without they
+<pb n="84" facs="tcp:104768:54"/>have ſerved ſeven years in the Corpo<g ref="char:EOLhyphen"/>ration.</p>
+               <p>And alſo there is a Law to forbid any man to build a Houſe, that hath not four Acres of Ground belonging to it.</p>
+               <p>And many more old Laws there are, that hinder our welfare and im<g ref="char:EOLhyphen"/>provement, and how is it poſſible for us to thrive if the Laws forbid us?</p>
+            </div>
+            <div n="29" type="part">
+               <pb n="85" facs="tcp:104768:54"/>
+               <head>29. <hi>Of Navigation, and Sea Affairs.</hi>
+               </head>
+               <p>NAvigation, and Sea affairs might be much advanced, by having publick Schools of Geography, and Navigation; and ſuch there may be Erected, whereby Youth may be taught in a twelve-months time, to conduct a Ship at Sea, as if they had been Maſters and Pilates many years; ſo that when they come to Sea, they are Maſters of their Ships at firſt ſight; and then their chief buſineſs will be to advance the Art of Navigation, by continual experience; inſtead of ſpending their times in com<g ref="char:EOLhyphen"/>mon Notions, of which they are already ſufficiently ſtored. The finding out the Longitudes, and making Salt wa<g ref="char:EOLhyphen"/>ter freſh, are two great ſecrets now in ſearch after, and there is great hopes of them; which if performed
+<pb n="86" facs="tcp:104768:55"/>will be very publick advantages; ſo would alſo Poſt Ships to Sail with all Winds ſwiftly, which ſome imagine feazible.</p>
+            </div>
+            <div n="30" type="part">
+               <head>30. <hi>Of new Inventions, and Diſcoveries.</hi>
+               </head>
+               <p>THere have been of late many In<g ref="char:EOLhyphen"/>ventions, Improvements, and Diſcoveries, very praiſe worthy; the Diſcovery of <hi>Magellan Streights,</hi> more than ever by Captain <hi>Norbury;</hi> and <hi>Hudſons Bay,</hi> with the Beaver Trade there, by Captain <hi>Guillam,</hi> Captain <hi>Goosberry,</hi> and others, by his Majeſties encouragement: alſo ſet<g ref="char:EOLhyphen"/>tling of the <hi>Guiny</hi> Company; and the ſettling of <hi>New York</hi> by the Duke; and <hi>Carolina</hi> by the Proprietors; the diſcovery of the <hi>Iſthmus</hi> of <hi>Panama</hi> by the <hi>Jamaica</hi> men; the making of fine <hi>China,</hi> brought in by Prince <hi>Rupert;</hi> the making of fine Glaſs, beyond <hi>Ve<g ref="char:EOLhyphen"/>nice,</hi> brought in by the Duke of
+<pb n="87" facs="tcp:104768:55"/>
+                  <hi>Buckingham;</hi> the poliſhing Glaſs in the nealing without grinding; and the way of cementing Glaſſes, by Mr. <hi>Reeves;</hi> the poliſhing Marble by a new Mill expeditiouſly, by Major <hi>Calthrop;</hi> ſeveral Engines for making Rivers Navigable, by Mr. <hi>Lee</hi> of the North, and Mr. <hi>Baily;</hi> the bringing in of Saffron, Liquoriſh, Xantfoigne, Clo<g ref="char:EOLhyphen"/>ver, Lucerne, and of late the Saffe Flower, that dies Scarlet, and of ve<g ref="char:EOLhyphen"/>ry great gain to the planter, as twen<g ref="char:EOLhyphen"/>ty or thirty pounds <hi>per annum</hi> an Acre above all charges; the making of Lat<g ref="char:EOLhyphen"/>ton is found out alſo, if encouraged; an excellent Sider Engine, that both grinds and preſſes Apples, and will make you, by it, ten Hogſheads a day, found out by Mr. <hi>John Worlidge,</hi> of <hi>Petesfield.</hi> Alſo an excellent inventi<g ref="char:EOLhyphen"/>on of late, for whitening black and brown Hair, ſo as to make light coulored Peri<g ref="char:EOLhyphen"/>wigs.</p>
+               <p>Many ſuch uſeful Inventions and Diſ<g ref="char:EOLhyphen"/>coveries would daily be produced, if Re<g ref="char:EOLhyphen"/>wards, and Encouragements, or Penſions were appointed for the Inventors.</p>
+            </div>
+            <div n="31" type="part">
+               <pb n="88" facs="tcp:104768:56"/>
+               <head>31. <hi>Of Plantations.</hi>
+               </head>
+               <p>IT concerns the <hi>Engliſh</hi> to Plant and fix Colonies, only in the chiefeſt and moſt conſiderable faſtneſſes for Trade and Deſign: and not to waſte men in large and unprofitable Terri<g ref="char:EOLhyphen"/>tories, which hath ruin'd the <hi>Spa<g ref="char:EOLhyphen"/>niard.</hi>
+               </p>
+               <p>Moſt of our Plantations in the <hi>Weſt-Indies,</hi> except <hi>Jamaica,</hi> and <hi>Barbadoes,</hi> are but unprofitable. And <hi>Barbadoes</hi> is ſmall, but <hi>Jamaica</hi> is the place that will turn to a great advantage to the <hi>Engliſh</hi> on many accounts, as by ly<g ref="char:EOLhyphen"/>ing ſo near the <hi>Iſthmus</hi> of <hi>Panama;</hi> and for ſeveral other advantages which I ſhall not now mention. But the very ſcituation of this Iſland is extra<g ref="char:EOLhyphen"/>ordinary remarkable, and it was the greateſt bleſſing imaginable, that we left the Enterprize of <hi>Hiſpaniola,</hi> and ſet on this Iſland; for if we had ſtu<g ref="char:EOLhyphen"/>dyed an Age to ſix in a place, where
+<pb n="89" facs="tcp:104768:56"/>we might Center, the richeſt Trea<g ref="char:EOLhyphen"/>ſure, and Trade of the <hi>Indies,</hi> here it muſt be: for <hi>Jamaica</hi> is ſcituated ſo well for Trade, or conqueſt of the Main, if there be occaſion, that no Iſland in the World lies like it for advantage: it being the Key of the <hi>Indies,</hi> and naturally the ſeat of Riches and Empire. So that if they had but a Trade once with the <hi>Indies</hi> adjoyn<g ref="char:EOLhyphen"/>ing, they have no way to avoid being the richeſt Colony in the <hi>Indies:</hi> It being wholly ſurrounded with the main Land, and Iſlands, lying in the very Belly of all Commerce, in the In-land Sea of <hi>Porto-bell,</hi> which is in the heart of <hi>America,</hi> and near the <hi>Mexican</hi> Gulph, between <hi>Peru</hi> and <hi>Mexico,</hi> facing to the South and Weſt; the richeſt Continent in the World; from which not diſtant any where much above an hundred Leagues; and againſt it, on the North, lie the two great Iſlands of <hi>Cuba</hi> and <hi>Hiſpaniola;</hi> and a little be-hither Eaſtwards, are the <hi>Caribbee</hi> Iſlands; but this lyeth in the midſt of all, as Queen of the <hi>In<g ref="char:EOLhyphen"/>dian</hi>
+                  <pb n="90" facs="tcp:104768:57"/>Iſles; and no Ship that comes from the <hi>Weſt-Indies,</hi> but muſt paſs by one end of this Iſle, before they come to the Gulph of <hi>Florida:</hi> which place all Ships muſt paſs that come for <hi>Europe.</hi> And had we but a Trade with the <hi>Indies,</hi> ſo near neighbours to us, we ſhould vend more Commo<g ref="char:EOLhyphen"/>dities than we could ſend them, and have in exchange ſtore of Silver.</p>
+               <p>'Twere the <hi>Spaniards</hi> Intereſt alſo to let us have a free Trade and ſhare with them, of ſome few Port Towns on the Continent, to maintain a Trade and neighbourlineſs between us; ſo ſhould we not endanger them, but equally de<g ref="char:EOLhyphen"/>fend the <hi>Indies</hi> with them; and they, by our means, have twice the riches yearly come home to <hi>Spain,</hi> as they have now. But of this in another place.</p>
+               <p>Concerning our Plantations in <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> the Southern Plantations are the moſt advantageous to us; and it were well hereafter we planted no more be<g ref="char:EOLhyphen"/>hither <hi>Jamaica,</hi> but ſettled and re<g ref="char:EOLhyphen"/>moved, if poſſible, rather our Northern
+<pb n="91" facs="tcp:104768:57"/>Colonies more forward. And theſe now inſignificant Iſlands to us of <hi>Ne<g ref="char:EOLhyphen"/>vis, Mountſerat, Antego,</hi> and St. <hi>Chri<g ref="char:EOLhyphen"/>ſtophers,</hi> if removed more Southwards, might prove very advantageous to us. For our North Colonies, as thoſe of <hi>New England,</hi> and the reſt afford on<g ref="char:EOLhyphen"/>ly ſuch Commodities as we have our ſelves, and ſo breed no good Com<g ref="char:EOLhyphen"/>merce; beſides, they hinder Trade to our Southern Plantations, by ſupply<g ref="char:EOLhyphen"/>ing <hi>Barbadoes, Jamaica,</hi> and the reſt, with ſuch things as we do: ſo that they take the bread out of our mouths, and are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther a diſadvantage, than ad<g ref="char:EOLhyphen"/>vantage to us; whereas if they had been at firſt planted near the Bay of <hi>Mexico,</hi> they would by this time have run down as far as the Silver Mines, by courſe of ordinary populating, and beſides breed ſo much Trade, that they would have taken off all our Commodities we had to ſpare.</p>
+               <p>I could eaſily demonſtrate, if it were required, a more particular account of the <hi>Weſt-Indies</hi> of the <hi>Spaniards</hi> Inte<g ref="char:EOLhyphen"/>reſt and ours, and what great advantages
+<pb n="92" facs="tcp:104768:58"/>we might have there if we pleaſed. But I ſhall refer this to a more ſeaſonable occaſion.</p>
+               <p>In concluſion; no opportunity ſhould be ſlighted, but that we fix Colonies of our own People abroad in the chiefeſt faſtneſſes, and moſt conſiderable places of Trade and abſolute advantage. Yet the whilſt, encouraging populacy and Manufactures at home, by priviledging the beſt Foreigners and Artificers, and Tradſemen; countenancing them as our own, with all manner of promotion, to bring in their Colonies hither: for 'tis obſerved that thoſe ſober Trading Peo<g ref="char:EOLhyphen"/>ple encreaſe wealth extreamly, and have none that want amongſt them, but con<g ref="char:EOLhyphen"/>trariwiſe ſet on work all the Induſtrious round about them; and ſo we ſhould by this means of countenancing all the In<g ref="char:EOLhyphen"/>genious and Induſtrious, have no poor or idle perſons amongſt us, but be full of peo<g ref="char:EOLhyphen"/>ple, wealth, and riches, full of all Trades, and Arts whatſoever. Land at thirty years purchaſe, and Employment and Preferment for all perſons.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:104768:58"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THere is now newly Printed, that moſt excellent piece of Daily De<g ref="char:EOLhyphen"/>votions, or the Chriſtians Morning and Evening ſacrifice: Digeſted into Pray<g ref="char:EOLhyphen"/>ers and Meditations, for every day of the week, and other occaſions; with Dire<g ref="char:EOLhyphen"/>ctions for a Godly Life: By <hi>John Collet,</hi> D. D. Dean of St. <hi>Pauls,</hi> and Founder of that famous School near adjoyning; the laſt Edition, with a brief account of the Authors Life, by D. <hi>T. Fuller.</hi>
+            </p>
+            <p>There is now ready for the Preſs, a Relation of Two Voyages to <hi>New-Eng<g ref="char:EOLhyphen"/>land;</hi> Performed in the years of our Lord 1638. and 1663. With a Chronologi<g ref="char:EOLhyphen"/>cal Tableof the moſt remarkable paſ<g ref="char:EOLhyphen"/>ſages, ſince the firſt planting of <hi>New-England,</hi> by <hi>John Joſſelyn,</hi> Gent.</p>
+         </div>
+         <div type="advert">
+            <pb facs="tcp:104768:59"/>
+            <head>Advertiſement.</head>
+            <p>THoſe Famous <hi>Lozenges,</hi> for the Cure of Conſumptions, Aſthmaes, Phthiſicks, Colds new and old, Hoarſneſs, and Obſtructions of the Stomach: Alſo a Soveraign Antidote againſt the Plague, and all other contagious Diſeaſes; they are a great Cordial, and fortifie all the Spirits, both Animal, Vital, and Na<g ref="char:EOLhyphen"/>tural.</p>
+            <p>And whereas formerly I made uſe of Mr. <hi>Richard Lownes,</hi> at the White Lion in St. <hi>Paul</hi>'s Church-yard, for the diſ<g ref="char:EOLhyphen"/>perſing of them: Theſe are to certifie the World, that I have taken them from him, to prevent any further abuſe that may ariſe, by thoſe that have or ſhall hereafter Counterfeit my <hi>Lozenges,</hi> to the fraud and abuſe of ſo famous a Me<g ref="char:EOLhyphen"/>dicine: and whereas formerly I put my
+<pb facs="tcp:104768:59"/>own Coat of Arms on the top of the Paper; Theſe are to certifie that I now put the Queens Arms upon the top of the Paper, and at the end with my own Coat of Arms, in Red wax. The price is two ſhillings and ſix pence the Paper.</p>
+            <p>They are to be had at Mr. <hi>Giles Wid<g ref="char:EOLhyphen"/>dowes</hi> Bookſeller, at the Green Dragon in St. <hi>Paul</hi>'s Church-yard: whom I have deputed to be the whole diſpoſer of them.</p>
+            <closer>
+               <signed>Edmund Buckworth, Phyſician to the Queens moſt Excellent Majeſty.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
